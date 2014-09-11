@@ -1,8 +1,8 @@
+import re
+import urllib2
 import sys
 import sdictviewer.formats.dct.sdict as sdict
 import sdictviewer.dictutil
-import re
-import urllib2
 
 def get_google_url(search, siteurl=False):
     if siteurl == False:
@@ -19,14 +19,15 @@ def get_google_data(search, siteurl = False):
     html = data.decode('ascii', 'ignore')
     site.close()
 
-    no_of_res = re.findall(r'About (.*?)? results', html)
+    #no_of_res = re.findall(r'About (.*?)? results', html)
+    no_of_res = re.findall(r'About (.*?) results', html)
     no_of_res = str(no_of_res[0]).replace(',', '')
     print no_of_res
-    print get_def(search)
+    #print get_def(search)
 
 def get_def(start_word):
-    #dictionary = sdict.SDictionary('../data/config/oxford.dct')
-    dictionary = sdict.SDictionary('../data/config/MWCollegiate.dct')
+    dictionary = sdict.SDictionary('../data/config/oxford.dct')
+    #dictionary = sdict.SDictionary('../data/config/MWCollegiate.dct')
     #dictionary = sdict.SDictionary('../data/config/webster_1913.dct')
     dictionary.load()
 
