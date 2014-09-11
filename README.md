@@ -1,4 +1,4 @@
-# Big Bang Theory Analysis
+# Analysis of The Big Bang Theory
 
 The objective of this project is to find out patterns and explore the characters of the famous sitcom The Big Bang Theory.
 
