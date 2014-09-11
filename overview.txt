@@ -1,0 +1,5 @@
+Packages and Dependancies
+    - sdictviewer-lib
+        https://github.com/jmhobbs/sdictviewer-lib
+    - nltk
+    - beautiful soup
