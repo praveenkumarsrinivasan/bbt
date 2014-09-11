@@ -1,0 +1,868 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<!--
+	generated in 0.756 seconds
+	74651 bytes batcached for 300 seconds
+-->
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Series 2 Episode 23 &#8211; The Monopolar Expedition | Big Bang Theory Transcripts</title>
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" href="http://s0.wp.com/wp-content/themes/pub/chaoticsoul/ie.css?m=1192578791g" type="text/css" media="screen" />
+	<![endif]-->
+	<link rel="pingback" href="http://bigbangtrans.wordpress.com/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Big Bang Theory Transcripts &raquo; Feed" href="http://bigbangtrans.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Big Bang Theory Transcripts &raquo; Comments Feed" href="http://bigbangtrans.wordpress.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='http://s1.wp.com/_static/??-eJx9UNFOwzAM/CGCQRtjPCC+JU3d1J0TR42jqn+/dGga00be7qw739mwJOMkKkaFUEzi4ilmyIEY1zTLhE7v2avL+QWe25hOmGFCTdadzIU9yDsWfzOI99hLUTMIsyywUO+xmUFxoEi6go4YaloqHbjRipLLUrhldTJjnYdkdVME7Mki1y2xmRjS4era4FhvezzreRvIujL+igniNpa68QpaqR7FsDirJPGOmIEtzS3rjNuTK/RQVX/of63HPXiWzl6+9xO+3/dvx8/d8Wv3MZ0B4DTNDg==' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-0' href='http://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1387483371g' type='text/css' media='print' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??-eJyFjd0KwjAMRl/IrttQ8EZ8lv1kJbVtapOu6NNbQUFR2FVCcr7v6BLVREEgiLasPY3oQGWGNJh6UxgWaizvdOUwTC7PwE/QXjOk22tsAsqjSYNA4zG84Q9rJBYPzFX55/utwrAilE3MgsRhuqgEjPef1tGRUdFlg4F13Q3MlEUt5BwVXXA2IDVz9qdu37aHY9e3vX0APQlvpA=='></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://bigbangtrans.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='canonical' href='http://bigbangtrans.wordpress.com/series-2-episode-23-the-monopolar-expedition/' />
+<link rel='shortlink' href='http://wp.me/PtW4R-2l' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fbigbangtrans.wordpress.com%2Fseries-2-episode-23-the-monopolar-expedition%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fbigbangtrans.wordpress.com%2Fseries-2-episode-23-the-monopolar-expedition%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Series 2 Episode 23 - The Monopolar Expedition" />
+<meta property="og:url" content="http://bigbangtrans.wordpress.com/series-2-episode-23-the-monopolar-expedition/" />
+<meta property="og:description" content="Scene: The apartment. Leonard is working on a whiteboard. Sheldon: Oh, boy. Leonard: What? Sheldon: I can&#039;t comment without violating our agreement that I don&#039;t criticize your work. Leonard: Then w..." />
+<meta property="article:published_time" content="2010-02-03T12:46:33+00:00" />
+<meta property="article:modified_time" content="2010-02-03T12:46:33+00:00" />
+<meta property="article:author" content="http://bigbangtrans.wordpress.com/author/bigbangtrans/" />
+<meta property="og:site_name" content="Big Bang Theory Transcripts" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:card" content="summary" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1405977958g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1405977958g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="http://s0.wp.com/i/webclip.png?m=1391188133g" />
+<link rel='openid.server' href='http://bigbangtrans.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://bigbangtrans.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://bigbangtrans.wordpress.com/osd.xml" title="Big Bang Theory Transcripts" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="Big Bang Theory Transcripts" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="All the episodes, right here." /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://bigbangtrans.wordpress.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="title" content="Series 2 Episode 23 &#8211; The Monopolar&nbsp;Expedition | Big Bang Theory Transcripts on WordPress.com" />
+<meta name="description" content="Scene: The apartment. Leonard is working on a whiteboard. Sheldon: Oh, boy. Leonard: What? Sheldon: I can&#039;t comment without violating our agreement that I don&#039;t criticize your work. Leonard: Then what was oh, boy? Sheldon: Great restraint on my part. Leonard: There&#039;s nothing wrong with the science here. Sheldon: Perhaps you mean a different thing&hellip;" />
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+<body class="page page-id-145 page-template-default mp6 highlander-enabled highlander-dark">
+<div id="page">
+
+<div id="header">
+	<h1><a href="http://bigbangtrans.wordpress.com/">Big Bang Theory Transcripts</a></h1>
+	<div class="description">All the episodes, right here.</div>
+</div>
+
+<div class="hr">&nbsp;</div> <!-- because IE sucks at styling HRs -->
+
+<div id="headerimg" class="clearfix">
+	<div id="header-overlay"> </div>
+	<div id="header-image"><img alt="" src="http://bigbangtrans.files.wordpress.com/2009/03/cropped-thebigbangtheory2.jpg" /></div>
+</div>
+
+	<div class="hr">&nbsp;</div>
+
+<div id="wrapper" class="clearfix">
+	<div id="content" class="widecolumn">
+
+    		<div class="post-145 page type-page status-publish hentry post" id="post-145">
+		<h2 class="title">Series 2 Episode 23 &#8211; The Monopolar&nbsp;Expedition</h2>
+			<div class="entrytext">
+				<p><em>Scene: The apartment. Leonard is working on a whiteboard.</em></p>
+<p>Sheldon: Oh, boy.</p>
+<p>Leonard: What?</p>
+<p>Sheldon: I can&#8217;t comment without violating our agreement that I don&#8217;t criticize your work.</p>
+<p>Leonard: Then what was oh, boy?</p>
+<p>Sheldon: Great restraint on my part.</p>
+<p>Leonard: There&#8217;s nothing wrong with the science here.</p>
+<p>Sheldon: Perhaps you mean a different thing than I do when you say science.</p>
+<p>Leonard <em>(making a change)</em>: Okay, how&#8217;s that?</p>
+<p>Sheldon: You actually had it right in the first place. Once again, you&#8217;ve fallen for one of my classic pranks. Bazinga! Well, now here&#8217;s a peculiar e-mail. The president of the university wants me to meet him at his office tomorrow morning at 8 a.m.</p>
+<p>Leonard: Why?</p>
+<p>Sheldon: It doesn&#8217;t say. It must be an emergency. Everyone at the university knows I eat breakfast at eight and move my bowels at 8:20.</p>
+<p>Leonard: Yes, how did we live before Twitter? I guess you&#8217;ll find out what it is in the morning.</p>
+<p>Sheldon: That&#8217;s 14 hours away. For the next 840 minutes, I&#8217;m effectively one of Heisenberg&#8217;s particles, I know where I am or I know how fast I&#8217;m going, but I can&#8217;t know both. Yet how am I supposed to carry on with this huge annoying thing hovering over my head?</p>
+<p>Leonard: Yeah, I know the feeling.</p>
+<p><em>Credits sequence.</em></p>
+<p><em>Scene: Outside Leonard’s bedroom.</em></p>
+<p>Sheldon: <em>(Knock, knock, knock) </em>Leonard. <em>(Knock, knock, knock) </em>Leonard. <em>(Knock, knock, knock) </em>Leonard.</p>
+<p>Leonard: Sheldon, it’s two o’clock in the morning.</p>
+<p>Sheldon: Why is everybody keep telling me what time it is?</p>
+<p>Leonard: Everybody?</p>
+<p>Sheldon: You, the president of the university, his wife, their sullen teenage daughter. That entire family is fascinated by what time it is and whether people know it.</p>
+<p>Leonard: You went to President Seibert&#8217;s house in the middle of the night?</p>
+<p>Sheldon: He didn&#8217;t respond to my e-mail, his phone number is unlisted. Tell me what my other option was.</p>
+<p>Leonard: You could have waited until morning. I know, look who I&#8217;m talking to.</p>
+<p>Sheldon: Do you remember the grant proposal I submitted to the National Science Foundation to detect slow-moving monopoles at the magnetic North Pole?</p>
+<p>Leonard: Hardly a day goes by when I don&#8217;t think about it.</p>
+<p>Sheldon: Aw, how nice. Well, a space opened up at the last minute on the NSF expedition to the Arctic Circle.</p>
+<p>Leonard: Wait a minute. He offered to send you to the North Pole?</p>
+<p>Sheldon: Yes. In fact, he was quite enthusiastic. He said, &#8220;Frankly, if I could send you tonight, I would.&#8221;</p>
+<p>Leonard: Okay, well, do you want to go?</p>
+<p>Sheldon: Of course not. I&#8217;m a theoretical physicist, a career I chose in no small part because it&#8217;s indoors, but if I&#8217;m able to detect slow-moving magnetic monopoles there, I will be the scientist to confirm string theory. People will write books about me. Third-graders will create macaroni-art dioramas depicting scenes from my life.</p>
+<p>Leonard: Sure, maybe a tableau of me trying to pummel you to death.</p>
+<p>Sheldon: Sarcasm?</p>
+<p>Leonard: Maybe.</p>
+<p>Sheldon: I&#8217;m on the horns of a dilemma. Can you imagine me, Sheldon Cooper, at the North Pole?</p>
+<p>Leonard: Easy peasy, I&#8217;m doing it right now.</p>
+<p>Sheldon: I&#8217;m not good with cold, Leonard. How often have we had to leave a movie theatre because I got a headache from drinking the Icee too fast? I can&#8217;t go.</p>
+<p>Leonard: Well, then don&#8217;t go.</p>
+<p>Sheldon: How can you say that? The scientific opportunity of a lifetime presents itself and my best friend says don&#8217;t go.</p>
+<p>Leonard: All right, then go.</p>
+<p>Sheldon: Listen to you. How can I possibly go?</p>
+<p>Leonard: Sheldon, what are the words I can say right now to end this conversation and let me go back to sleep?</p>
+<p>Sheldon: Odd, President Seibert posed the exact same question.</p>
+<p>Leonard: How was it resolved?</p>
+<p>Sheldon: It wasn&#8217;t. His wife set their dogs on me and rendered the question moot.</p>
+<p><em>Scene: The stairwell.</em></p>
+<p>Howard: Just imagine. If he says yes, we&#8217;ll have an entire summer without Sheldon.</p>
+<p>Raj: We could play outside.</p>
+<p>Howard: We could sit on the left side of the couch.</p>
+<p>Leonard: I could use the bathroom at 8:20.</p>
+<p>Raj: Our dreams are very small, aren&#8217;t they?</p>
+<p>Sheldon: Good news, gentlemen, I have tentatively accepted&#8230;</p>
+<p>All: Yeah! Woo-hoo!</p>
+<p>Sheldon: &#8230;the invitation to join the Arctic Expedition.</p>
+<p>Leonard: It&#8217;s not gonna be the same without you.</p>
+<p>Howard: Godspeed.</p>
+<p>Sheldon: Thank you, but your sentiments may be premature.</p>
+<p>Raj: Ooh, I don&#8217;t like where this is going.</p>
+<p>Sheldon: I would like to propose that the three of you accompany me.</p>
+<p>Howard: To the North Pole?</p>
+<p>Sheldon: Yes.</p>
+<p>Raj: Is this just so we won&#8217;t touch your stuff while you&#8217;re away?</p>
+<p>Sheldon: I&#8217;ll admit that was a concern. But the fact is, I&#8217;ll need a support team. And the three of you are my first choice.</p>
+<p>Howard: Really?</p>
+<p>Sheldon: Well, there are others who might be more qualified, but the thought of interviewing them gave me a stomach ache. Now, I know I&#8217;m proposing an enormous undertaking, so why don&#8217;t you take a few moments to discuss it?</p>
+<p>Howard: We&#8217;re not really gonna go to the North Pole with him, are we?</p>
+<p>Sheldon <em>(voice)</em>: I&#8217;m still within earshot! You may want to wait for my door to close.</p>
+<p>Howard: We&#8217;re not really gonna go to the North Pole with him, are we?</p>
+<p>Leonard: Hang on. Let&#8217;s talk about it. This is a National Science Foundation expedition. I don&#8217;t know how we can turn it down.</p>
+<p>Howard: Easy. Instead of saying, no, we don&#8217;t want to go on an NSF expedition, say, no, we don&#8217;t want to spend &#8220;three months stuck in a cabin in the Arctic Circle with an anal nutbag.&#8221;</p>
+<p>Raj: But if we were part of the team that confirmed string theory, we could drink for free in any bar in any college town with a university that has a strong science program.</p>
+<p>Leonard: Howard, this is big science. You could be the engineer who builds the equipment that puts us on the cover of magazines.</p>
+<p>Howard: I could also be the engineer who builds the crossbow that kills Sheldon.</p>
+<p>Raj: You still might get on a magazine.</p>
+<p>Howard: So you guys are seriously considering this?</p>
+<p>Leonard: Yes.</p>
+<p>Howard: And you think you can put up with Sheldon?</p>
+<p>Raj: Well, I&#8217;m a Hindu. My religion teaches that if we suffer in this life we are rewarded in the next. Three months at the North Pole with Sheldon and I&#8217;m reborn as a well-hung billionaire with wings!</p>
+<p>Sheldon: Well, gentlemen, have you reached a decision?</p>
+<p>Leonard: I&#8217;m in.</p>
+<p>Raj: Me, too.</p>
+<p>Howard: Oh, damn it. Peer pressure. Fine.</p>
+<p>Sheldon: Excellent. And just an FYI, as I am the expedition&#8217;s team leader, protocol dictates that be phrased fine, sir. But don&#8217;t worry, there will be a briefing.</p>
+<p><em>Scene: Outside Penny’s door.</em></p>
+<p>Sheldon: <em>(Knock, knock, knock) </em>Penny.</p>
+<p>Penny: <em>(Knock, knock, knock) </em>Sheldon.<em> </em></p>
+<p><em> </em></p>
+<p>Sheldon: <em>(Knock, knock, knock) </em>Penny.</p>
+<p>Penny: <em>(Knock, knock, knock) </em>Sheldon.<em> </em></p>
+<p><em> </em></p>
+<p>Sheldon: <em>(Knock, knock, knock) </em>Penny.</p>
+<p>Penny: <em>(Knock, knock, knock) </em>Sheldon.<em> </em></p>
+<p><em> </em></p>
+<p>Sheldon: <em>(Knock, knock, knock) </em>Penny.</p>
+<p>Penny: <em>(Knock, knock, knock) </em>Sheldon.<em> </em></p>
+<p><em> </em></p>
+<p>Sheldon: <em>(Knock, knock, knock) </em>Penny.</p>
+<p>Penny: <em>(Knock, knock, knock) </em>Sheldon.<em> </em></p>
+<p><em> </em></p>
+<p>Sheldon: <em>(Knock, knock, knock) </em>Penny.</p>
+<p>Penny: <em>(Knock, knock, knock) </em>Sheldon.<em> </em></p>
+<p><em> </em></p>
+<p>Sheldon: <em>(Knock, knock, knock) </em>Penny.</p>
+<p>Penny: What do you want?</p>
+<p>Sheldon: I need access to the Cheesecake Factory&#8217;s walk-in freezer.</p>
+<p>Penny: Now, honey, I already told you, the hamburger meat is fresh and stored at a safe temperature.</p>
+<p>Sheldon: No. This is to train for a three-month expedition to the magnetic North Pole.</p>
+<p>Penny: What?</p>
+<p>Sheldon: I don&#8217;t know how that sentence could possibly confuse you, but to elaborate, I&#8217;m going to the Arctic Circle with Leonard, Wolowitz and Koothrappali.</p>
+<p>Penny: You&#8217;re all going?</p>
+<p>Sheldon: Yes.</p>
+<p>Penny: For three months?</p>
+<p>Sheldon: Yes.</p>
+<p>Penny: Excuse me.</p>
+<p>Sheldon: Is that a yes or a no on the freezer? The woman has the attention span of a gnat.</p>
+<p>Penny: Hey, Leonard.</p>
+<p>Leonard: Hi.</p>
+<p>Penny: Sheldon says you&#8217;re going to the North Pole.</p>
+<p>Leonard: Yeah. Pretty cool, huh?</p>
+<p>Penny: Yeah. I&#8217;m just a little surprised you didn&#8217;t tell me.</p>
+<p>Leonard: Oh, well, it all happened kind of fast, and we had to get physicals and buy thermal underwear and study up on, you know, snow and stuff. Sorry, I was gonna tell you.</p>
+<p>Penny: Oh, hey, no, you don&#8217;t have to apologize. There&#8217;s no reason you have to tell me. I was just, you know, surprised.</p>
+<p>Sheldon: Yes, yes, you were busy, you were surprised, all very fascinating. Now where do we stand on the freezer?</p>
+<p>Penny: Is he serious?</p>
+<p>Leonard: Actually, it would help.</p>
+<p>Penny: All right, I&#8217;ll see what I can do. So, three months at the North Pole. Wow, that is awesome.</p>
+<p>Leonard: Yeah.</p>
+<p>Sheldon: I&#8217;m sorry, but at what point do you put this see what you can do plan into action?</p>
+<p>Penny: Just a warning, Sheldon, the freezer locks from the outside.</p>
+<p>Leonard: Did she seem upset to you?</p>
+<p>Sheldon: No. Did she seem upset to you?</p>
+<p>Leonard: No.</p>
+<p>Sheldon: Oh, good, I got it right. Are you upset?</p>
+<p>Leonard: A little bit.</p>
+<p>Sheldon: Two for two. I&#8217;m on fire.</p>
+<p>Leonard: I mean, I know she&#8217;s not my girlfriend or anything, but wouldn&#8217;t you think she&#8217;d feel a little bad that I&#8217;m going to be gone for the whole summer?</p>
+<p>Sheldon: That feels like a bonus question. I&#8217;m going to stop here while I&#8217;m ahead, but I’ve had a great time.</p>
+<p><em>Scene: Inside the cheesecake factory freezer.</em></p>
+<p><em> </em></p>
+<p>Sheldon: Alright, now the purpose of this drill is to acclimate us to the use of tools in extreme temperatures such as we will face in the Arctic Circle.</p>
+<p>Raj: Where are your tools?</p>
+<p>Sheldon <em>(pointing at his brain)</em>: Right here. All right, team, open up your practice kits. As the university did not permit me to bring the actual equipment we&#8217;ll be using to the Cheesecake Factory, because apparently I&#8217;m &#8220;ridiculous,&#8221; I&#8217;ve provided substitutes which will exercise your fine motor skills. Leonard, you will be doing a series of complex mathematical problems on a vintage Casio model 1175 calculator watch I received when I won the Earth Science medal in 3rd grade. Treat it with respect. Raj, you will be painting sideburns and a Van Dyke on a six-inch figurine of Legolas the elf. Now, remember, a Van Dyke is a goatee without a moustache. Wolowitz, you will be completing a series of delicate surgical procedures on the classic children&#8217;s game, Operation. To begin with, you will remove funny bone for two hundred dollars.</p>
+<p>Howard: For this I went to MIT.</p>
+<p>Sheldon: And begin.</p>
+<p>Raj: I think I swallowed some paint!</p>
+<p>Leonard: I can&#8217;t press any of the buttons with my gloves. Oh, son of a bitch!</p>
+<p>Sheldon: Adversity is to be expected. Continue.</p>
+<p>Howard: Oh, boy, am I gonna get sued.</p>
+<p>Leonard: Okay, I can&#8217;t do this.</p>
+<p>Raj: Me either.</p>
+<p>Sheldon: Gentlemen, use your imagination. Innovate. Did Han Solo let Luke Skywalker freeze to death on the ice planet of Hoth? No. He cut open a tauntaun and used its internal body heat to warm him up.</p>
+<p>Howard: You heard the man. Hold him down and I&#8217;ll cut him open.</p>
+<p>Leonard: Hang on, I know I don&#8217;t possess the tools of leadership, but I don&#8217;t understand why we can&#8217;t assemble the equipment inside the hut and then take it outside.</p>
+<p>Sheldon: I hadn&#8217;t thought of that. I guess we&#8217;re done here.</p>
+<p><em>Scene: The apartment kitchen.</em></p>
+<p><em> </em></p>
+<p>Sheldon: Here, drink slash eat this.</p>
+<p>Leonard: What is it?</p>
+<p>Sheldon: It’s hot chocolate with a stick of butter.</p>
+<p>Howard: Okay, why?</p>
+<p>Sheldon: Because in the frigid temperatures in the Arctic, we need to consume at least 5,000 calories a day just to maintain our body weight.</p>
+<p>Leonard: Sheldon, you know I can&#8217;t eat butter. I&#8217;m lactose intolerant.</p>
+<p>Sheldon: Way ahead of you, that&#8217;s an &#8220;I Can&#8217;t Believe It&#8217;s Not Butter&#8221; stick.</p>
+<p>Raj <em>(on his webcam)</em>: But mummy, all the other guys are going to the North Pole.</p>
+<p>Mrs Koothrappali: I don&#8217;t care what the other guys are doing. If the other guys jumped in the Bay of Bengal and tried to swim to Sri Lanka, would you follow them?</p>
+<p>Raj: If you were standing behind me nagging, I might.</p>
+<p>Dr Koothrappali: Don&#8217;t talk back to your mother. This trip is much too dangerous, Rajesh.</p>
+<p>Raj: No, it&#8217;s not. Howard, tell them.</p>
+<p>Howard: Doctor and Mrs. Koothrappali, namaste. I understand your concern, but if it&#8217;ll make you feel any better, my mother is fine with me going, and this is a woman who kept a safety rail on my bed until I was 17.</p>
+<p>Mrs Koothrappali: So, she has no problem with her son being eaten by a walrus?</p>
+<p>Sheldon: That&#8217;s very unlikely, Mrs. Koothrappali. If Raj dies, it&#8217;ll be from frostbite, gangrene, acute sunburn or being ripped to shreds by a fifteen hundred pound polar bear.</p>
+<p>Howard: Ma, I&#8217;m putting you on speakerphone with Raj&#8217;s parents. Can you tell them that you&#8217;re okay with me going to the Arctic?</p>
+<p>Howard’s Mother: Arctic? I thought you said Arkansas!</p>
+<p>Howard: I didn&#8217;t say that. You never listen to me!</p>
+<p>Howard’s Mother: He doesn&#8217;t tell me anything! He lives a secret life because he&#8217;s ashamed!</p>
+<p>Penny <em>(arriving)</em>: Hey, Leonard, can I talk to you for a sec?</p>
+<p>Leonard: Sure, but let&#8217;s go out here where there&#8217;s a little less yelling and guilt. What&#8217;s up?</p>
+<p>Penny: Well, I got you a little going away present.</p>
+<p>Leonard: Oh, a blanket.</p>
+<p>Penny: Oh, no, no, no, not just a blanket. See, it has sleeves. Yeah!  So, you can, you know, be all snoodled up while you do your science stuff.</p>
+<p>Leonard: Oh, wow, cool.</p>
+<p>Penny: Oh, I&#8217;m gonna miss you.<em> (She hugs him for a long time) </em>See you later.</p>
+<p>Leonard: Bye. <em> </em></p>
+<p>Mrs Koothrappali: I told you no. Why don&#8217;t you believe me?</p>
+<p>Howard’s Mother: &#8216;Cause it doesn&#8217;t make sense to me! How can it be that in the entire country of India, there isn&#8217;t one Outback Steakhouse?!</p>
+<p><em>Scene: Sheldon’s bedroom. Sheldon is asleep. There is a knock on the door.</em></p>
+<p>Leonard: Sheldon, Sheldon?</p>
+<p>Sheldon: I want a cookie, Meemaw.</p>
+<p>Leonard: Sheldon, it&#8217;s me.</p>
+<p>Sheldon: But Meemaw just made cookies.</p>
+<p>Leonard: Listen, I don&#8217;t know if I can go on the expedition.</p>
+<p>Sheldon: What?</p>
+<p>Leonard: I don&#8217;t think I can go to the North Pole.</p>
+<p>Sheldon: Okay, Leonard, I know you&#8217;re concerned about disappointing me but I want you to take comfort from the knowledge that my expectations of you are very low.</p>
+<p>Leonard: Yeah, that&#8217;s very comforting.</p>
+<p>Sheldon: Comforting is a part of leadership. It&#8217;s not a part I care for, but such is my burden.</p>
+<p>Leonard: Terrific, it&#8217;s just that I don&#8217;t think Penny wants me to go.</p>
+<p>Sheldon: Assuming that&#8217;s a valid reason not to go, which it isn&#8217;t, how do you know this? Did she say it?</p>
+<p>Leonard: Not exactly. But she said she was gonna miss me and she gave me this.</p>
+<p>Sheldon: What is it?</p>
+<p>Leonard: It&#8217;s a blanket with sleeves.</p>
+<p>Sheldon: Oh, that&#8217;s clever. Let me see if I understand this correctly. Her missing you is an emotional state you find desirable?</p>
+<p>Leonard: Yes, obviously.</p>
+<p>Sheldon: All right. Well, given that missing you is predicated on you leaving, logic dictates you must leave.</p>
+<p>Leonard: Yes, okay, but I&#8217;m gonna be gone for three months. What if she doesn&#8217;t miss me that long and she meets someone else?</p>
+<p>Sheldon: She does have a short attention span.</p>
+<p>Leonard: So, I can&#8217;t go.</p>
+<p>Sheldon: Leonard, you may be right. It appears that Penny secretly wants you in her life in a very intimate and carnal fashion.</p>
+<p>Leonard: You really think so?</p>
+<p>Sheldon: Of course not. Even in my sleep-deprived state, I&#8217;ve managed to pull off another one of my classic pranks. Bazinga!</p>
+<p><em>Scene: Outside Penny’s door. Leonard is knocking.</em></p>
+<p>Penny: Oh, Leonard, what time is it?</p>
+<p>Leonard: It&#8217;s 7 a.m. I&#8217;m sorry it&#8217;s early, but we&#8217;re leaving soon, and I needed to talk to you.</p>
+<p>Penny: Okay.</p>
+<p>Leonard: What did you mean when you said you&#8217;re going to miss me?</p>
+<p>Penny: Um, I don&#8217;t know. You&#8217;ll be gone and I&#8217;ll notice.</p>
+<p>Leonard <em>(indicating the blanket)</em>: Okay, well, um, what about this? What does this mean?</p>
+<p>Penny: Wine, credit card and late night television are a bad combination.</p>
+<p>Leonard: All right, fine. What about that really long hug? What did that mean?</p>
+<p>Penny: That wasn&#8217;t a long hug.</p>
+<p>Leonard: It was at least five Mississippis. A standard hug is two Mississippis tops.</p>
+<p>Penny: Leonard, I don&#8217;t know what to tell you. It was just a hug.</p>
+<p>Leonard: Glad we cleared that up.</p>
+<p>Penny: Yeah.</p>
+<p>Leonard: I guess I&#8217;ll see you.</p>
+<p>Penny: Okay, have a safe trip.</p>
+<p>Leonard: Thank you. Bye.</p>
+<p>Penny: Okay, bye. <em>(Penny closes door. To herself) </em>Means I wish you weren&#8217;t going.</p>
+<p><em>Scene: The North Pole.</em></p>
+<p>Leonard: Damn it.</p>
+<p>Howard: What?</p>
+<p>Leonard: We&#8217;re out of ice.</p>
+<p>Sheldon: All right, men, we begin initial assembly and deployment of the testing equipment starting tomorrow at 0700 hours, but until then, you are all off duty. I suggest you keep the shenanigans to a minimum as medical help is 18 hours away by dogsled.</p>
+<p>Raj: What are you working on?</p>
+<p>Howard: Crossbow.</p>
+<p>Leonard: Hey, guys, can I just say something? How about we take a moment to think about where we are right now? This is literally the top of the world. Only a handful of people in all of human history will ever see what we are going to see.</p>
+<p>Raj: He&#8217;s right.</p>
+<p>Howard: Yeah, wow.</p>
+<p>Sheldon: It is remarkable.</p>
+<p>Raj: So, who&#8217;s up for a movie?</p>
+<p>Howard: Good idea, what do you think? Ice Station Zebra or John Carpenter&#8217;s The Thing?</p>
+<p>Raj: I say double feature.</p>
+<p>Leonard: Dinner&#8217;s ready!</p>
+<p>Sheldon: What are we having?</p>
+<p>Leonard: Reconstituted Thai food.</p>
+<p>Sheldon: Did you bring the dehydrated low-sodium soy sauce?</p>
+<p>Leonard: Check.</p>
+<p>Sheldon: Freeze-dried spicy mustard?</p>
+<p>Leonard: Check.</p>
+<p>Sheldon: Flash-frozen brown rice, not white?</p>
+<p>Leonard: Uh, oh, sorry.</p>
+<p>Sheldon: Not to worry. I hid it. Bazinga! You&#8217;re in my spot.</p>
+<p>Howard: There&#8217;s no time for a crossbow. Find me an icicle.</p>
+<p>Sheldon: Three months. This is gonna be great!</p>
+<div id="jp-post-flair" class="sharedaddy sharedaddy-dark sd-like-enabled"><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-7134765-145-5411e0a138025' data-src='//widgets.wp.com/likes/#blog_id=7134765&amp;post_id=145&amp;origin=bigbangtrans.wordpress.com&amp;obj_id=7134765-145-5411e0a138025' data-name='like-post-frame-7134765-145-5411e0a138025'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height:55px'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>								<br class="clear" />
+			</div>
+		</div>
+	  	
+	
+<!-- You can start editing here. -->
+
+
+
+	</div>
+
+	<div id="sidebar">
+		<div id="text-404271621" class="widget widget_text">			<div class="textwidget"><div align="center">This page takes a lot of time and effort to keep up to date. Perhaps if you get some use out of it, you could chuck me a few pennies towards keeping it going.<p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=4682827"><img src="https://www.paypal.com/en_GB/i/btn/btn_donate_SM.gif"></a></div></div>
+		</div>	<form method="get" id="searchform" action="/">
+	<div><input type="text" value="Search" onblur="this.value=(this.value=='') ? 'Search' : this.value;" onfocus="this.value=(this.value=='Search') ? '' : this.value;" name="s" id="s" />
+	</div>
+	</form>
+<div id="pages-2" class="widget widget_pages"><h3>Pages</h3>		<ul>
+			<li class="page_item page-item-2"><a href="http://bigbangtrans.wordpress.com/about/">About</a></li>
+<li class="page_item page-item-3"><a href="http://bigbangtrans.wordpress.com/series-1-episode-1-pilot-episode/">Series 1 Episode 01 &#8211; Pilot&nbsp;Episode</a></li>
+<li class="page_item page-item-5"><a href="http://bigbangtrans.wordpress.com/series-1-episode-2-the-big-bran-hypothesis/">Series 1 Episode 02 &#8211; The Big Bran&nbsp;Hypothesis</a></li>
+<li class="page_item page-item-7"><a href="http://bigbangtrans.wordpress.com/series-1-episode-3-the-fuzzy-boots-corollary/">Series 1 Episode 03 &#8211; The Fuzzy Boots&nbsp;Corollary</a></li>
+<li class="page_item page-item-9"><a href="http://bigbangtrans.wordpress.com/series-1-episode-4-the-luminous-fish-effect/">Series 1 Episode 04 &#8211; The Luminous Fish&nbsp;Effect</a></li>
+<li class="page_item page-item-11"><a href="http://bigbangtrans.wordpress.com/series-1-episode-5-the-hamburger-postulate/">Series 1 Episode 05 &#8211; The Hamburger&nbsp;Postulate</a></li>
+<li class="page_item page-item-21"><a href="http://bigbangtrans.wordpress.com/series-1-episode-6-the-middle-earth-paradigm/">Series 1 Episode 06 &#8211; The Middle Earth&nbsp;Paradigm</a></li>
+<li class="page_item page-item-28"><a href="http://bigbangtrans.wordpress.com/series-1-episode-7-the-dumpling-paradox/">Series 1 Episode 07 &#8211; The Dumpling&nbsp;Paradox</a></li>
+<li class="page_item page-item-30"><a href="http://bigbangtrans.wordpress.com/series-1-episode-8-the-grasshopper-experiment/">Series 1 Episode 08 &#8211; The Grasshopper&nbsp;Experiment</a></li>
+<li class="page_item page-item-33"><a href="http://bigbangtrans.wordpress.com/series-1-episode-9-the-cooper-hofstadter-polarization/">Series 1 Episode 09 &#8211; The Cooper-Hofstadter Polarization</a></li>
+<li class="page_item page-item-35"><a href="http://bigbangtrans.wordpress.com/series-1-episode-10-the-loobenfeld-decay/">Series 1 Episode 10 &#8211; The Loobenfeld&nbsp;Decay</a></li>
+<li class="page_item page-item-49"><a href="http://bigbangtrans.wordpress.com/series-1-episode-11-the-pancake-batter-anomaly/">Series 1 Episode 11 &#8211; The Pancake Batter&nbsp;Anomaly</a></li>
+<li class="page_item page-item-47"><a href="http://bigbangtrans.wordpress.com/series-1-episode-12-the-jerusalem-duality/">Series 1 Episode 12 &#8211; The Jerusalem&nbsp;Duality</a></li>
+<li class="page_item page-item-54"><a href="http://bigbangtrans.wordpress.com/series-1-episode-13-the-bat-jar-conjecture/">Series 1 Episode 13 &#8211; The Bat Jar&nbsp;Conjecture</a></li>
+<li class="page_item page-item-56"><a href="http://bigbangtrans.wordpress.com/series-1-episode-14-the-nerdvana-annihilation/">Series 1 Episode 14 &#8211; The Nerdvana&nbsp;Annihilation</a></li>
+<li class="page_item page-item-59"><a href="http://bigbangtrans.wordpress.com/series-1-episode-15-the-porkchop-indeterminacy/">Series 1 Episode 15 &#8211; The Porkchop&nbsp;Indeterminacy</a></li>
+<li class="page_item page-item-62"><a href="http://bigbangtrans.wordpress.com/series-1-episode-16-the-peanut-reaction/">Series 1 Episode 16 &#8211; The Peanut&nbsp;Reaction</a></li>
+<li class="page_item page-item-64"><a href="http://bigbangtrans.wordpress.com/series-1-episode-17-the-tangerine-factor/">Series 1 Episode 17 &#8211; The Tangerine&nbsp;Factor</a></li>
+<li class="page_item page-item-66"><a href="http://bigbangtrans.wordpress.com/series-2-episode-01-the-bad-fish-paradigm/">Series 2 Episode 01 &#8211; The Bad Fish&nbsp;Paradigm</a></li>
+<li class="page_item page-item-68"><a href="http://bigbangtrans.wordpress.com/series-2-episode-02-the-codpiece-topology/">Series 2 Episode 02 &#8211; The Codpiece&nbsp;Topology</a></li>
+<li class="page_item page-item-70"><a href="http://bigbangtrans.wordpress.com/series-2-episode-03-the-barbarian-sublimation/">Series 2 Episode 03 &#8211; The Barbarian&nbsp;Sublimation</a></li>
+<li class="page_item page-item-72"><a href="http://bigbangtrans.wordpress.com/series-2-episode-04-the-griffin-equivalency/">Series 2 Episode 04 &#8211; The Griffin&nbsp;Equivalency</a></li>
+<li class="page_item page-item-81"><a href="http://bigbangtrans.wordpress.com/series-2-episode-5-the-euclid-alternative/">Series 2 Episode 05 &#8211; The Euclid&nbsp;Alternative</a></li>
+<li class="page_item page-item-90"><a href="http://bigbangtrans.wordpress.com/series-2-episode-06-the-cooper-nowitzki-theorem-2/">Series 2 Episode 06 &#8211; The Cooper-Nowitzki&nbsp;Theorem</a></li>
+<li class="page_item page-item-93"><a href="http://bigbangtrans.wordpress.com/series-2-episode-07-the-panty-pinata-polarization/">Series 2 Episode 07 &#8211; The Panty Pinata&nbsp;Polarization</a></li>
+<li class="page_item page-item-96"><a href="http://bigbangtrans.wordpress.com/series-1-episode-08-the-lizard-spock-expansion/">Series 2 Episode 08 &#8211; The Lizard-Spock&nbsp;Expansion</a></li>
+<li class="page_item page-item-100"><a href="http://bigbangtrans.wordpress.com/series-2-episode-09-the-white-asparagus-triangulation/">Series 2 Episode 09 &#8211; The White Asparagus&nbsp;Triangulation</a></li>
+<li class="page_item page-item-103"><a href="http://bigbangtrans.wordpress.com/series-2-episode-11-the-vartabedian-conundrum/">Series 2 Episode 10 &#8211; The Vartabedian&nbsp;Conundrum</a></li>
+<li class="page_item page-item-106"><a href="http://bigbangtrans.wordpress.com/series-2-episode-11-the-bath-item-gift-hypothesis/">Series 2 Episode 11 &#8211; The Bath Item Gift&nbsp;Hypothesis</a></li>
+<li class="page_item page-item-108"><a href="http://bigbangtrans.wordpress.com/series-2-episode-12-the-killer-robot-instability/">Series 2 Episode 12 &#8211; The Killer Robot&nbsp;Instability</a></li>
+<li class="page_item page-item-110"><a href="http://bigbangtrans.wordpress.com/series-2-episode-13-the-friendship-algorithm/">Series 2 Episode 13 &#8211; The Friendship&nbsp;Algorithm</a></li>
+<li class="page_item page-item-118"><a href="http://bigbangtrans.wordpress.com/series-2-episode-14-the-financial-permeability-2/">Series 2 Episode 14 &#8211; The Financial&nbsp;Permeability</a></li>
+<li class="page_item page-item-120"><a href="http://bigbangtrans.wordpress.com/series-2-episode-15-the-maternal-capacitance/">Series 2 Episode 15 &#8211; The Maternal&nbsp;Capacitance</a></li>
+<li class="page_item page-item-127"><a href="http://bigbangtrans.wordpress.com/series-2-episode-16-the-cushion-saturation-3/">Series 2 Episode 16 &#8211; The Cushion&nbsp;Saturation</a></li>
+<li class="page_item page-item-131"><a href="http://bigbangtrans.wordpress.com/series-2-episode-17-the-terminator-decoupling/">Series 2 Episode 17 &#8211; The Terminator&nbsp;Decoupling</a></li>
+<li class="page_item page-item-133"><a href="http://bigbangtrans.wordpress.com/series-2-episode-18-the-work-song-nanocluster/">Series 2 Episode 18 &#8211; The Work Song&nbsp;Nanocluster</a></li>
+<li class="page_item page-item-135"><a href="http://bigbangtrans.wordpress.com/series-2-episode-19-the-dead-hooker-juxtaposition/">Series 2 Episode 19 &#8211; The Dead Hooker&nbsp;Juxtaposition</a></li>
+<li class="page_item page-item-137"><a href="http://bigbangtrans.wordpress.com/series-2-episode-20-the-hofstadter-isotope/">Series 2 Episode 20 &#8211; The Hofstadter&nbsp;Isotope</a></li>
+<li class="page_item page-item-139"><a href="http://bigbangtrans.wordpress.com/series-2-episode-21-the-vegas-renormalization/">Series 2 Episode 21 &#8211; The Vegas&nbsp;Renormalization</a></li>
+<li class="page_item page-item-142"><a href="http://bigbangtrans.wordpress.com/series-2-episode-22-the-classified-materials-turbulence/">Series 2 Episode 22 &#8211; The Classified Materials&nbsp;Turbulence</a></li>
+<li class="page_item page-item-145 current_page_item"><a href="http://bigbangtrans.wordpress.com/series-2-episode-23-the-monopolar-expedition/">Series 2 Episode 23 &#8211; The Monopolar&nbsp;Expedition</a></li>
+<li class="page_item page-item-148"><a href="http://bigbangtrans.wordpress.com/series-3-episode-01-the-electric-can-opener-fluctuation/">Series 3 Episode 01 &#8211; The Electric Can Opener&nbsp;Fluctuation</a></li>
+<li class="page_item page-item-150"><a href="http://bigbangtrans.wordpress.com/series-3-episode-02-the-jiminy-conjecture/">Series 3 Episode 02 &#8211; The Jiminy&nbsp;Conjecture</a></li>
+<li class="page_item page-item-152"><a href="http://bigbangtrans.wordpress.com/series-3-episode-03-the-gothowitz-deviation/">Series 3 Episode 03 &#8211; The Gothowitz&nbsp;Deviation</a></li>
+<li class="page_item page-item-154"><a href="http://bigbangtrans.wordpress.com/series-3-episode-04-the-pirate-solution/">Series 3 Episode 04 &#8211; The Pirate&nbsp;Solution</a></li>
+<li class="page_item page-item-157"><a href="http://bigbangtrans.wordpress.com/series-3-episode-05-the-creepy-candy-coating-corollary/">Series 3 Episode 05 &#8211; The Creepy Candy Coating&nbsp;Corollary</a></li>
+<li class="page_item page-item-159"><a href="http://bigbangtrans.wordpress.com/series-3-episode-06-the-cornhusker-vortex/">Series 3 Episode 06 &#8211; The Cornhusker&nbsp;Vortex</a></li>
+<li class="page_item page-item-162"><a href="http://bigbangtrans.wordpress.com/series-3-episode-07-the-guitarist-amplification/">Series 3 Episode 07 &#8211; The Guitarist&nbsp;Amplification</a></li>
+<li class="page_item page-item-164"><a href="http://bigbangtrans.wordpress.com/series-3-episode-08-the-adhesive-duck-deficiency/">Series 3 Episode 08 &#8211; The Adhesive Duck&nbsp;Deficiency</a></li>
+<li class="page_item page-item-166"><a href="http://bigbangtrans.wordpress.com/series-3-episode-09-the-vengeance-formulation/">Series 3 Episode 09 &#8211; The Vengeance&nbsp;Formulation</a></li>
+<li class="page_item page-item-168"><a href="http://bigbangtrans.wordpress.com/series-3-episode-10-the-gorilla-experiment/">Series 3 Episode 10 &#8211; The Gorilla&nbsp;Experiment</a></li>
+<li class="page_item page-item-170"><a href="http://bigbangtrans.wordpress.com/series-3-episode-11-the-maternal-congruence/">Series 3 Episode 11 &#8211; The Maternal&nbsp;Congruence</a></li>
+<li class="page_item page-item-172"><a href="http://bigbangtrans.wordpress.com/series-3-episode-12-the-psychic-vortex/">Series 3 Episode 12 &#8211; The Psychic&nbsp;Vortex</a></li>
+<li class="page_item page-item-173"><a href="http://bigbangtrans.wordpress.com/series-3-episode-13-the-bozeman-reaction/">Series 3 Episode 13 &#8211; The Bozeman&nbsp;Reaction</a></li>
+<li class="page_item page-item-174"><a href="http://bigbangtrans.wordpress.com/series-3-episode-14-the-einstein-approximation/">Series 3 Episode 14 &#8211; The Einstein&nbsp;Approximation</a></li>
+<li class="page_item page-item-176"><a href="http://bigbangtrans.wordpress.com/series-3-episode-15-the-large-hadron-collision/">Series 3 Episode 15 &#8211; The Large Hadron&nbsp;Collision</a></li>
+<li class="page_item page-item-179"><a href="http://bigbangtrans.wordpress.com/series-3-episode-16-the-excelsior-acquisition/">Series 3 Episode 16 &#8211; The Excelsior&nbsp;Acquisition</a></li>
+<li class="page_item page-item-184"><a href="http://bigbangtrans.wordpress.com/series-3-episode-17-the-precious-fragmentation/">Series 3 Episode 17 &#8211; The Precious&nbsp;Fragmentation</a></li>
+<li class="page_item page-item-188"><a href="http://bigbangtrans.wordpress.com/series-3-episode-18-the-pants-alternative/">Series 3 Episode 18 &#8211; The Pants&nbsp;Alternative</a></li>
+<li class="page_item page-item-190"><a href="http://bigbangtrans.wordpress.com/series-3-episode-19-the-wheaton-recurrence/">Series 3 Episode 19 &#8211; The Wheaton&nbsp;Recurrence</a></li>
+<li class="page_item page-item-192"><a href="http://bigbangtrans.wordpress.com/series-3-episode-20-the-spaghetti-catalyst/">Series 3 Episode 20 &#8211; The Spaghetti&nbsp;Catalyst</a></li>
+<li class="page_item page-item-196"><a href="http://bigbangtrans.wordpress.com/series-3-episode-21-the-plimpton-stimulation/">Series 3 Episode 21 &#8211; The Plimpton&nbsp;Stimulation</a></li>
+<li class="page_item page-item-201"><a href="http://bigbangtrans.wordpress.com/series-3-episode-22-the-staircase-implementation/">Series 3 Episode 22 &#8211; The Staircase&nbsp;Implementation</a></li>
+<li class="page_item page-item-203"><a href="http://bigbangtrans.wordpress.com/series-3-episode-23-the-lunar-excitation/">Series 3 Episode 23 &#8211; The Lunar&nbsp;Excitation</a></li>
+<li class="page_item page-item-213"><a href="http://bigbangtrans.wordpress.com/series-4-episode-01-the-robotic-manipulation/">Series 4 Episode 01 &#8211; The Robotic&nbsp;Manipulation</a></li>
+<li class="page_item page-item-216"><a href="http://bigbangtrans.wordpress.com/series-4-episode-02-the-cruciferous-vegetable-amplification/">Series 4 Episode 02 &#8211; The Cruciferous Vegetable&nbsp;Amplification</a></li>
+<li class="page_item page-item-218"><a href="http://bigbangtrans.wordpress.com/series-4-episode-03-the-zazzy-substitution/">Series 4 Episode 03 &#8211; The Zazzy&nbsp;Substitution</a></li>
+<li class="page_item page-item-220"><a href="http://bigbangtrans.wordpress.com/series-4-episode-04-the-hot-troll-deviation/">Series 4 Episode 04 &#8211; The Hot Troll&nbsp;Deviation</a></li>
+<li class="page_item page-item-222"><a href="http://bigbangtrans.wordpress.com/series-4-episode-05-the-desperation-emanation/">Series 4 Episode 05 &#8211; The Desperation&nbsp;Emanation</a></li>
+<li class="page_item page-item-225"><a href="http://bigbangtrans.wordpress.com/series-4-episode-06-the-irish-pub-formulation/">Series 4 Episode 06 &#8211; The Irish Pub&nbsp;Formulation</a></li>
+<li class="page_item page-item-228"><a href="http://bigbangtrans.wordpress.com/series-4-episode-07-the-apology-insufficiency/">Series 4 Episode 07 &#8211; The Apology&nbsp;Insufficiency</a></li>
+<li class="page_item page-item-230"><a href="http://bigbangtrans.wordpress.com/series-4-episode-08-the-21-second-excitation/">Series 4 Episode 08 &#8211; The 21 Second&nbsp;Excitation</a></li>
+<li class="page_item page-item-233"><a href="http://bigbangtrans.wordpress.com/series-4-episode-09-the-boyfriend-complexity/">Series 4 Episode 09 &#8211; The Boyfriend&nbsp;Complexity</a></li>
+<li class="page_item page-item-236"><a href="http://bigbangtrans.wordpress.com/series-4-episode-10-the-alien-parasite-hypothesis/">Series 4 Episode 10 &#8211; The Alien Parasite&nbsp;Hypothesis</a></li>
+<li class="page_item page-item-238"><a href="http://bigbangtrans.wordpress.com/series-4-episode-11-the-justice-league-recombination/">Series 4 Episode 11 &#8211; The Justice League&nbsp;Recombination</a></li>
+<li class="page_item page-item-240"><a href="http://bigbangtrans.wordpress.com/series-4-episode-12-the-bus-pants-utilization/">Series 4 Episode 12 &#8211; The Bus Pants&nbsp;Utilization</a></li>
+<li class="page_item page-item-244"><a href="http://bigbangtrans.wordpress.com/series-4-episode-13-the-love-car-displacement/">Series 4 Episode 13 &#8211; The Love Car&nbsp;Displacement</a></li>
+<li class="page_item page-item-247"><a href="http://bigbangtrans.wordpress.com/series-4-episode-14-the-thespian-catalyst/">Series 4 Episode 14 &#8211; The Thespian&nbsp;Catalyst</a></li>
+<li class="page_item page-item-250"><a href="http://bigbangtrans.wordpress.com/series-4-episode-15-the-benefactor-factor/">Series 4 Episode 15 &#8211; The Benefactor&nbsp;Factor</a></li>
+<li class="page_item page-item-252"><a href="http://bigbangtrans.wordpress.com/series-4-episode-16-the-cohabitation-formulation/">Series 4 Episode 16 &#8211; The Cohabitation&nbsp;Formulation</a></li>
+<li class="page_item page-item-255"><a href="http://bigbangtrans.wordpress.com/series-4-episode-17-the-toast-derivation/">Series 4 Episode 17 &#8211; The Toast&nbsp;Derivation</a></li>
+<li class="page_item page-item-261"><a href="http://bigbangtrans.wordpress.com/series-4-episode-18-the-prestidigitation-approximation/">Series 4 Episode 18 &#8211; The Prestidigitation Approximation</a></li>
+<li class="page_item page-item-264"><a href="http://bigbangtrans.wordpress.com/series-4-episode-19-the-zarnecki-incursion/">Series 4 Episode 19 &#8211; The Zarnecki&nbsp;Incursion</a></li>
+<li class="page_item page-item-269"><a href="http://bigbangtrans.wordpress.com/series-4-episode-20-the-herb-garden-germination/">Series 4 Episode 20 &#8211; The Herb Garden&nbsp;Germination</a></li>
+<li class="page_item page-item-272"><a href="http://bigbangtrans.wordpress.com/series-4-episode-21-the-agreement-dissection/">Series 4 Episode 21 &#8211; The Agreement&nbsp;Dissection</a></li>
+<li class="page_item page-item-274"><a href="http://bigbangtrans.wordpress.com/series-4-episode-22-the-wildebeest-implementation/">Series 4 Episode 22 &#8211; The Wildebeest&nbsp;Implementation</a></li>
+<li class="page_item page-item-278"><a href="http://bigbangtrans.wordpress.com/series-4-episode-23-the-engagement-reaction/">Series 4 Episode 23 &#8211; The Engagement&nbsp;Reaction</a></li>
+<li class="page_item page-item-280"><a href="http://bigbangtrans.wordpress.com/series-4-episode-24-the-roommate-transmogrification/">Series 4 Episode 24 &#8211; The Roommate Transmogrification</a></li>
+<li class="page_item page-item-286"><a href="http://bigbangtrans.wordpress.com/series-5-episode-01-the-skank-reflex-analysis/">Series 5 Episode 01 &#8211; The Skank Reflex&nbsp;Analysis</a></li>
+<li class="page_item page-item-294"><a href="http://bigbangtrans.wordpress.com/series-5-episode-02-the-infestation-hypothesis/">Series 5 Episode 02 &#8211; The Infestation&nbsp;Hypothesis</a></li>
+<li class="page_item page-item-299"><a href="http://bigbangtrans.wordpress.com/series-5-episode-03-the-pulled-groin-extrapolation/">Series 5 Episode 03 &#8211; The Pulled Groin&nbsp;Extrapolation</a></li>
+<li class="page_item page-item-304"><a href="http://bigbangtrans.wordpress.com/series-5-episode-04-the-wiggly-finger-catalyst/">Series 5 Episode 04 &#8211; The Wiggly Finger&nbsp;Catalyst</a></li>
+<li class="page_item page-item-306"><a href="http://bigbangtrans.wordpress.com/series-5-episode-05-the-russian-rocket-reaction/">Series 5 Episode 05 &#8211; The Russian Rocket&nbsp;Reaction</a></li>
+<li class="page_item page-item-308"><a href="http://bigbangtrans.wordpress.com/series-5-episode-06-the-rhinitis-revelation/">Series 5 Episode 06 &#8211; The Rhinitis&nbsp;Revelation</a></li>
+<li class="page_item page-item-311"><a href="http://bigbangtrans.wordpress.com/series-5-episode-07-the-good-guy-fluctuation/">Series 5 Episode 07 &#8211; The Good Guy&nbsp;Fluctuation</a></li>
+<li class="page_item page-item-313"><a href="http://bigbangtrans.wordpress.com/series-5-episode-08-the-isolation-permutation/">Series 5 Episode 08 &#8211; The Isolation&nbsp;Permutation</a></li>
+<li class="page_item page-item-318"><a href="http://bigbangtrans.wordpress.com/series-5-episode-09-the-ornithophobia-diffusion/">Series 5 Episode 09 &#8211; The Ornithophobia&nbsp;Diffusion</a></li>
+<li class="page_item page-item-326"><a href="http://bigbangtrans.wordpress.com/series-5-episode-10-the-flaming-spittoon-acquisition/">Series 5 Episode 10 &#8211; The Flaming Spittoon&nbsp;Acquisition</a></li>
+<li class="page_item page-item-335"><a href="http://bigbangtrans.wordpress.com/series-5-episode-11-the-speckerman-recurrence/">Series 5 Episode 11 &#8211; The Speckerman&nbsp;Recurrence</a></li>
+<li class="page_item page-item-337"><a href="http://bigbangtrans.wordpress.com/series-5-episode-12-the-shiny-trinket-maneouvre/">Series 5 Episode 12 &#8211; The Shiny Trinket&nbsp;Maneouvre</a></li>
+<li class="page_item page-item-340"><a href="http://bigbangtrans.wordpress.com/series-5-episode-13-the-recombination-hypothesis/">Series 5 Episode 13 &#8211; The Recombination&nbsp;Hypothesis</a></li>
+<li class="page_item page-item-343"><a href="http://bigbangtrans.wordpress.com/series-5-episode-14-the-beta-test-initiation/">Series 5 Episode 14 &#8211; The Beta Test&nbsp;Initiation</a></li>
+<li class="page_item page-item-345"><a href="http://bigbangtrans.wordpress.com/series-5-episode-15-the-friendship-contraction/">Series 5 Episode 15 &#8211; The Friendship&nbsp;Contraction</a></li>
+<li class="page_item page-item-349"><a href="http://bigbangtrans.wordpress.com/series-5-episode-16-the-vacation-solution/">Series 5 Episode 16 &#8211; The Vacation&nbsp;Solution</a></li>
+<li class="page_item page-item-353"><a href="http://bigbangtrans.wordpress.com/series-5-episode-17-the-rothman-disintegration/">Series 5 Episode 17 &#8211; The Rothman&nbsp;Disintegration</a></li>
+<li class="page_item page-item-357"><a href="http://bigbangtrans.wordpress.com/series-5-episode-18-the-werewolf-transformation/">Series 5 Episode 18 &#8211; The Werewolf&nbsp;Transformation</a></li>
+<li class="page_item page-item-360"><a href="http://bigbangtrans.wordpress.com/series-5-episode-19-the-weekend-vortex/">Series 5 Episode 19 &#8211; The Weekend&nbsp;Vortex</a></li>
+<li class="page_item page-item-363"><a href="http://bigbangtrans.wordpress.com/series-5-episode-20-the-transporter-malfunction/">Series 5 Episode 20 &#8211; The Transporter&nbsp;Malfunction</a></li>
+<li class="page_item page-item-366"><a href="http://bigbangtrans.wordpress.com/series-5-episode-21-the-hawking-excitation/">Series 5 Episode 21 &#8211; The Hawking&nbsp;Excitation</a></li>
+<li class="page_item page-item-370"><a href="http://bigbangtrans.wordpress.com/series-5-episode-22-the-stag-convergence/">Series 5 Episode 22 &#8211; The Stag&nbsp;Convergence</a></li>
+<li class="page_item page-item-381"><a href="http://bigbangtrans.wordpress.com/series-5-episode-23-the-launch-acceleration/">Series 5 Episode 23 &#8211; The Launch&nbsp;Acceleration</a></li>
+<li class="page_item page-item-383"><a href="http://bigbangtrans.wordpress.com/series-5-episode-24-the-countdown-reflection/">Series 5 Episode 24 &#8211; The Countdown&nbsp;Reflection</a></li>
+<li class="page_item page-item-388"><a href="http://bigbangtrans.wordpress.com/series-6-episode-01-the-date-night-variable/">Series 6 Episode 01 &#8211; The Date Night&nbsp;Variable</a></li>
+<li class="page_item page-item-391"><a href="http://bigbangtrans.wordpress.com/series-6-episode-02-the-decoupling-fluctuation/">Series 6 Episode 02 &#8211; The Decoupling&nbsp;Fluctuation</a></li>
+<li class="page_item page-item-393"><a href="http://bigbangtrans.wordpress.com/series-6-episode-03-the-higgs-boson-observation/">Series 6 Episode 03 &#8211; The Higgs Boson&nbsp;Observation</a></li>
+<li class="page_item page-item-396"><a href="http://bigbangtrans.wordpress.com/series-6-episode-04-the-re-entry-minimization/">Series 6 Episode 04 &#8211; The Re-Entry&nbsp;Minimization</a></li>
+<li class="page_item page-item-403"><a href="http://bigbangtrans.wordpress.com/series-6-episode-05-the-holographic-excitation/">Series 6 Episode 05 &#8211; The Holographic&nbsp;Excitation</a></li>
+<li class="page_item page-item-405"><a href="http://bigbangtrans.wordpress.com/series-6-episode-06-the-extract-obliteration/">Series 6 Episode 06 &#8211; The Extract&nbsp;Obliteration</a></li>
+<li class="page_item page-item-408"><a href="http://bigbangtrans.wordpress.com/series-6-episode-07-the-habitation-configuration/">Series 6 Episode 07 &#8211; The Habitation&nbsp;Configuration</a></li>
+<li class="page_item page-item-411"><a href="http://bigbangtrans.wordpress.com/series-6-episode-08-the-43-peculiarity/">Series 6 Episode 08 &#8211; The 43&nbsp;Peculiarity</a></li>
+<li class="page_item page-item-413"><a href="http://bigbangtrans.wordpress.com/series-6-episode-09-the-parking-spot-escalation/">Series 6 Episode 09 &#8211; The Parking Spot&nbsp;Escalation</a></li>
+<li class="page_item page-item-415"><a href="http://bigbangtrans.wordpress.com/series-6-episode-10-the-fish-guts-displacement/">Series 6 Episode 10 &#8211; The Fish Guts&nbsp;Displacement</a></li>
+<li class="page_item page-item-421"><a href="http://bigbangtrans.wordpress.com/series-6-episode-11-the-santa-simulation/">Series 6 Episode 11 &#8211; The Santa&nbsp;Simulation</a></li>
+<li class="page_item page-item-425"><a href="http://bigbangtrans.wordpress.com/series-6-episode-12-the-egg-salad-equivalency/">Series 6 Episode 12 &#8211; The Egg Salad&nbsp;Equivalency</a></li>
+<li class="page_item page-item-429"><a href="http://bigbangtrans.wordpress.com/series-6-episode-13-the-bakersfield-expedition/">Series 6 Episode 13 &#8211; The Bakersfield&nbsp;Expedition</a></li>
+<li class="page_item page-item-431"><a href="http://bigbangtrans.wordpress.com/series-6-episode-14-the-cooperkripke-inversion/">Series 6 Episode 14 &#8211; The Cooper/Kripke&nbsp;Inversion</a></li>
+<li class="page_item page-item-433"><a href="http://bigbangtrans.wordpress.com/series-6-episode-15-the-spoiler-alert-segmentation/">Series 6 Episode 15 &#8211; The Spoiler Alert&nbsp;Segmentation</a></li>
+<li class="page_item page-item-436"><a href="http://bigbangtrans.wordpress.com/series-6-episode-16-the-tangible-affection-proof/">Series 6 Episode 16 &#8211; The Tangible Affection&nbsp;Proof</a></li>
+<li class="page_item page-item-439"><a href="http://bigbangtrans.wordpress.com/series-6-episode-17-the-monster-isolation/">Series 6 Episode 17 &#8211; The Monster&nbsp;Isolation</a></li>
+<li class="page_item page-item-443"><a href="http://bigbangtrans.wordpress.com/series-6-episode-18-the-contractual-obligation-implementation/">Series 6 Episode 18 &#8211; The Contractual Obligation&nbsp;Implementation</a></li>
+<li class="page_item page-item-445"><a href="http://bigbangtrans.wordpress.com/series-6-episode-19-the-closet-reconfiguration/">Series 6 Episode 19 &#8211; The Closet&nbsp;Reconfiguration</a></li>
+<li class="page_item page-item-447"><a href="http://bigbangtrans.wordpress.com/series-6-episode-20-the-tenure-turbulence/">Series 6 Episode 20 &#8211; The Tenure&nbsp;Turbulence</a></li>
+<li class="page_item page-item-449"><a href="http://bigbangtrans.wordpress.com/series-6-episode-21-the-closure-alternative/">Series 6 Episode 21 &#8211; The Closure&nbsp;Alternative</a></li>
+<li class="page_item page-item-451"><a href="http://bigbangtrans.wordpress.com/series-6-episode-22-the-proton-resurgence/">Series 6 Episode 22 &#8211; The Proton&nbsp;Resurgence</a></li>
+<li class="page_item page-item-456"><a href="http://bigbangtrans.wordpress.com/series-06-episode-23-the-love-spell-potential/">Series 6 Episode 23 &#8211; The Love Spell&nbsp;Potential</a></li>
+<li class="page_item page-item-460"><a href="http://bigbangtrans.wordpress.com/series-06-episode-24-the-bon-voyage-reaction/">Series 6 Episode 24 &#8211; The Bon Voyage&nbsp;Reaction</a></li>
+<li class="page_item page-item-569"><a href="http://bigbangtrans.wordpress.com/series-7-episode-01-the-hofstadter-insufficiency/">Series 7 Episode 01 &#8211; The Hofstadter&nbsp;Insufficiency</a></li>
+<li class="page_item page-item-576"><a href="http://bigbangtrans.wordpress.com/series-7-episode-02-the-deception-verification/">Series 7 Episode 02 &#8211; The Deception&nbsp;Verification</a></li>
+<li class="page_item page-item-597"><a href="http://bigbangtrans.wordpress.com/series-7-episode-03-the-scavenger-vortex/">Series 7 Episode 03 &#8211; The Scavenger&nbsp;Vortex</a></li>
+<li class="page_item page-item-599"><a href="http://bigbangtrans.wordpress.com/series-7-episode-04-the-raiders-minimization/">Series 7 Episode 04 &#8211; The Raiders&nbsp;Minimization</a></li>
+<li class="page_item page-item-608"><a href="http://bigbangtrans.wordpress.com/series-7-episode-05-the-workplace-proximity/">Series 7 Episode 05 &#8211; The Workplace&nbsp;Proximity</a></li>
+<li class="page_item page-item-610"><a href="http://bigbangtrans.wordpress.com/series-7-episode-06-the-romance-resonance/">Series 7 Episode 06 &#8211; The Romance&nbsp;Resonance</a></li>
+<li class="page_item page-item-612"><a href="http://bigbangtrans.wordpress.com/series-7-episode-07-the-proton-displacement/">Series 7 Episode 07 &#8211; The Proton&nbsp;Displacement</a></li>
+<li class="page_item page-item-614"><a href="http://bigbangtrans.wordpress.com/series-7-episode-08-the-itchy-brain-simulation/">Series 7 Episode 08 &#8211; The Itchy Brain&nbsp;Simulation</a></li>
+<li class="page_item page-item-617"><a href="http://bigbangtrans.wordpress.com/series-7-episode-09-the-thanksgiving-decoupling/">Series 7 Episode 09 &#8211; The Thanksgiving&nbsp;Decoupling</a></li>
+<li class="page_item page-item-619"><a href="http://bigbangtrans.wordpress.com/series-7-episode-10-the-discovery-dissipation/">Series 7 Episode 10 &#8211; The Discovery&nbsp;Dissipation</a></li>
+<li class="page_item page-item-621"><a href="http://bigbangtrans.wordpress.com/series-7-episode-11-the-cooper-extraction/">Series 7 Episode 11 &#8211; The Cooper&nbsp;Extraction</a></li>
+<li class="page_item page-item-623"><a href="http://bigbangtrans.wordpress.com/series-7-episode-12-the-hesitation-ramification/">Series 7 Episode 12 &#8211; The Hesitation&nbsp;Ramification</a></li>
+<li class="page_item page-item-625"><a href="http://bigbangtrans.wordpress.com/series-7-episode-13-the-occupation-recalibration/">Series 7 Episode 13 &#8211; The Occupation&nbsp;Recalibration</a></li>
+<li class="page_item page-item-627"><a href="http://bigbangtrans.wordpress.com/series-7-episode-14-the-convention-conundrum/">Series 7 Episode 14 &#8211; The Convention&nbsp;Conundrum</a></li>
+<li class="page_item page-item-629"><a href="http://bigbangtrans.wordpress.com/series-7-episode-15-the-locomotive-manipulation/">Series 7 Episode 15 &#8211; The Locomotive&nbsp;Manipulation</a></li>
+<li class="page_item page-item-635"><a href="http://bigbangtrans.wordpress.com/series-7-episode-16-the-table-polarisation/">Series 7 Episode 16 &#8211; The Table&nbsp;Polarisation</a></li>
+<li class="page_item page-item-639"><a href="http://bigbangtrans.wordpress.com/series-7-episode-17-the-friendship-turbulence/">Series 7 Episode 17 &#8211; The Friendship&nbsp;Turbulence</a></li>
+<li class="page_item page-item-641"><a href="http://bigbangtrans.wordpress.com/series-7-episode-18-the-mommy-observation/">Series 7 Episode 18 &#8211; The Mommy&nbsp;Observation</a></li>
+<li class="page_item page-item-643"><a href="http://bigbangtrans.wordpress.com/series-7-episode-19-the-indecision-amalgamation/">Series 7 Episode 19 &#8211; The Indecision&nbsp;Amalgamation</a></li>
+<li class="page_item page-item-645"><a href="http://bigbangtrans.wordpress.com/series-7-episode-20-the-relationship-diremption/">Series 7 Episode 20 &#8211; The Relationship&nbsp;Diremption</a></li>
+<li class="page_item page-item-648"><a href="http://bigbangtrans.wordpress.com/series-7-episode-21-the-anything-can-happen-recurrence/">Series 7 Episode 21 &#8211; The Anything Can Happen&nbsp;Recurrence</a></li>
+<li class="page_item page-item-650"><a href="http://bigbangtrans.wordpress.com/series-7-episode-22-the-proton-transmogrification/">Series 7 Episode 22 &#8211; The Proton Transmogrification</a></li>
+<li class="page_item page-item-654"><a href="http://bigbangtrans.wordpress.com/series-7-episode-23-the-gorilla-dissolution/">Series 7 Episode 23 &#8211; The Gorilla&nbsp;Dissolution</a></li>
+<li class="page_item page-item-656"><a href="http://bigbangtrans.wordpress.com/series-7-episode-24-the-status-quo-combustion/">Series 7 Episode 24 &#8211; The Status Quo&nbsp;Combustion</a></li>
+		</ul>
+		</div>
+	</div>
+
+</div>
+
+<div class="hr last">&nbsp;</div>
+<div id="footer">
+	<p><a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com</a>. <a href="https://wordpress.com/themes/chaoticsoul/" title="Learn more about this theme">The ChaoticSoul Theme</a>.</p>
+</div>
+</div>
+
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201437x'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781g'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+
+					<h3><label for="loggedout-follow-field">Follow &ldquo;Big Bang Theory Transcripts&rdquo;</label></h3>
+
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+						<p class="bit-follow-count">Join 519 other followers</p>
+			<p><input type="email" name="email" value="Enter your email address" onfocus='this.value=(this.value=="Enter your email address") ? "" : this.value;' onblur='this.value=(this.value=="") ? "Enter email address" : this.value;'  id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="7134765"/>
+			<input type="hidden" name="source" value="http://bigbangtrans.wordpress.com/series-2-episode-23-the-monopolar-expedition/"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="5825259a89" /><input type="hidden" name="_wp_http_referer" value="/series-2-episode-23-the-monopolar-expedition/" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="https://wordpress.com/?ref=lof">Powered by WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+		<iframe src='http://widgets.wp.com/likes/master.html?ver=20140922#ver=20140922&amp;mp6=1' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script type="text/javascript">
+		//<![CDATA[
+			var jetpackLikesWidgetQueue = [];
+			var jetpackLikesWidgetBatch = [];
+			var jetpackLikesMasterReady = false;
+
+			function JetpackLikespostMessage( message, target ) {
+				if ( "string" === typeof message ){
+					try{
+						message = JSON.parse( message );
+					}
+					catch(e) {
+						return;
+					}
+				}
+
+				pm( {
+					target: target,
+					type: 'likesMessage',
+					data: message,
+					origin: '*'
+				} );
+			}
+
+			function JetpackLikesBatchHandler() {
+				var requests = [];
+				jQuery( 'div.jetpack-likes-widget-unloaded' ).each( function( i ) {
+					if ( jetpackLikesWidgetBatch.indexOf( this.id ) > -1 )
+						return;
+					jetpackLikesWidgetBatch.push( this.id );
+					var regex = /like-(post|comment)-wrapper-(\d+)-(\d+)-(\w+)/;
+					var match = regex.exec( this.id );
+					if ( ! match || match.length != 5 )
+						return;
+
+					var info = {
+						blog_id: match[2],
+						width:   this.width
+					};
+
+					if ( 'post' == match[1] ) {
+						info.post_id = match[3];
+					} else if ( 'comment' == match[1] ) {
+						info.comment_id = match[3];
+					}
+
+					info.obj_id = match[4];
+
+					requests.push( info );
+				});
+
+				if ( requests.length > 0 ) {
+					JetpackLikespostMessage( { event: 'initialBatch', requests: requests }, window.frames['likes-master'] );
+				}
+			}
+
+			function JetpackLikesMessageListener( event ) {
+				if ( "undefined" == typeof event.event )
+					return;
+
+				if ( 'masterReady' == event.event ) {
+					jQuery( document ).ready( function() {
+						jetpackLikesMasterReady = true;
+
+						var stylesData = {
+								event: 'injectStyles'
+						};
+
+						if ( jQuery( 'iframe.admin-bar-likes-widget' ).length > 0 ) {
+							JetpackLikespostMessage( { event: 'adminBarEnabled' }, window.frames[ 'likes-master' ] );
+
+							stylesData.adminBarStyles = {
+								background: jQuery( '#wpadminbar .quicklinks li#wp-admin-bar-wpl-like > a' ).css( 'background' ),
+								isRtl: ( 'rtl' == jQuery( '#wpadminbar' ).css( 'direction' ) )
+							};
+						}
+
+						if ( !window.addEventListener )
+							jQuery( '#wp-admin-bar-admin-bar-likes-widget' ).hide();
+
+						stylesData.textStyles = {
+							color: jQuery( '.sd-text-color').css( 'color' ),
+							fontFamily: jQuery( '.sd-text-color' ).css( 'font-family' ),
+							fontSize: jQuery( '.sd-text-color' ).css( 'font-size' ),
+							direction: jQuery( '.sd-text-color' ).css( 'direction' ),
+							fontWeight: jQuery( '.sd-text-color' ).css( 'font-weight' ),
+							fontStyle: jQuery( '.sd-text-color' ).css( 'font-style' ),
+							textDecoration: jQuery( '.sd-text-color' ).css('text-decoration')
+						};
+
+						stylesData.linkStyles = {
+							color: jQuery( '.sd-link-color' ).css('color'),
+							fontFamily: jQuery( '.sd-link-color' ).css('font-family'),
+							fontSize: jQuery( '.sd-link-color' ).css('font-size'),
+							textDecoration: jQuery( '.sd-link-color' ).css('text-decoration'),
+							fontWeight: jQuery( '.sd-link-color' ).css( 'font-weight' ),
+							fontStyle: jQuery( '.sd-link-color' ).css( 'font-style' )
+						};
+
+						JetpackLikespostMessage( stylesData, window.frames[ 'likes-master' ] );
+
+						JetpackLikesBatchHandler();
+
+						jQuery( document ).on( 'inview', 'div.jetpack-likes-widget-unloaded', function() {
+							jetpackLikesWidgetQueue.push( this.id );
+						});
+					});
+				}
+
+				if ( 'showLikeWidget' == event.event ) {
+					jQuery( '#' + event.id + ' .post-likes-widget-placeholder'  ).fadeOut( 'fast', function() {
+						jQuery( '#' + event.id + ' .post-likes-widget' ).fadeIn( 'fast', function() {
+							JetpackLikespostMessage( { event: 'likeWidgetDisplayed', blog_id: event.blog_id, post_id: event.post_id, obj_id: event.obj_id }, window.frames['likes-master'] );
+						});
+					});
+				}
+
+				if ( 'clickReblogFlair' == event.event ) {
+					wpcom_reblog.toggle_reblog_box_flair( event.obj_id );
+				}
+
+				if ( 'showOtherGravatars' == event.event ) {
+					var $container = jQuery( '#likes-other-gravatars' );
+					var $list = $container.find( 'ul' );
+
+					$container.hide();
+					$list.html( '' );
+
+					$container.find( '.likes-text span' ).text( event.total );
+
+					jQuery.each( event.likers, function( i, liker ) {
+						$list.append( '<li class="' + liker.css_class + '"><a href="' + liker.profile_URL + '" class="wpl-liker" rel="nofollow" target="_parent"><img src="' + liker.avatar_URL + '" alt="' + liker.name + '" width="30" height="30" style="padding-right: 3px;" /></a></li>');
+					} );
+
+					var offset = jQuery( "[name='" + event.parent + "']" ).offset();
+
+					$container.css( 'left', offset.left + event.position.left - 10 + 'px' );
+					$container.css( 'top', offset.top + event.position.top - 33 + 'px' );
+
+					var rowLength = Math.floor( event.width / 37 );
+					var height = ( Math.ceil( event.likers.length / rowLength ) * 37 ) + 13;
+					if ( height > 204 ) {
+						height = 204;
+					}
+
+					$container.css( 'height', height + 'px' );
+					$container.css( 'width', rowLength * 37 - 7 + 'px' );
+
+					$list.css( 'width', rowLength * 37 + 'px' );
+
+					$container.fadeIn( 'slow' );
+
+					var scrollbarWidth = $list[0].offsetWidth - $list[0].clientWidth;
+					if ( scrollbarWidth > 0 ) {
+						$container.width( $container.width() + scrollbarWidth );
+						$list.width( $list.width() + scrollbarWidth );
+					}
+				}
+			}
+
+			pm.bind( 'likesMessage', function(e) { JetpackLikesMessageListener(e); } );
+
+			jQuery( document ).click( function( e ) {
+				var $container = jQuery( '#likes-other-gravatars' );
+
+				if ( $container.has( e.target ).length === 0 ) {
+					$container.fadeOut( 'slow' );
+				}
+			});
+
+			function JetpackLikesWidgetQueueHandler() {
+				var wrapperID;
+				if ( ! jetpackLikesMasterReady ) {
+					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+					return;
+				}
+
+				if ( jetpackLikesWidgetQueue.length > 0 ) {
+					// We may have a widget that needs creating now
+					var found = false;
+					while( jetpackLikesWidgetQueue.length > 0 ) {
+						// Grab the first member of the queue that isn't already loading.
+						wrapperID = jetpackLikesWidgetQueue.splice( 0, 1 )[0];
+						if ( jQuery( '#' + wrapperID ).hasClass( 'jetpack-likes-widget-unloaded' ) ) {
+							found = true;
+							break;
+						}
+					}
+					if ( ! found ) {
+						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+						return;
+					}
+				} else if ( jQuery( 'div.jetpack-likes-widget-unloaded' ).length > 0 ) {
+					// Grab any unloaded widgets for a batch request
+					JetpackLikesBatchHandler();
+
+					// Get the next unloaded widget
+					wrapperID = jQuery( 'div.jetpack-likes-widget-unloaded' ).first()[0].id;
+					if ( ! wrapperID ) {
+						// Everything is currently loaded
+						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+						return;
+					}
+				}
+
+				if ( 'undefined' === typeof wrapperID ) {
+					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+					return;
+				}
+
+				var $wrapper = jQuery( '#' + wrapperID );
+				$wrapper.find( 'iframe' ).remove();
+
+				if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
+					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='22px' width='68px' frameBorder='0' scrolling='no' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
+				} else {
+					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='55px' width='100%' frameBorder='0' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
+				}
+
+				$wrapper.removeClass( 'jetpack-likes-widget-unloaded' ).addClass( 'jetpack-likes-widget-loading' );
+
+				$wrapper.find( 'iframe' ).load( function( e ) {
+					var $iframe = jQuery( e.target );
+					$wrapper.removeClass( 'jetpack-likes-widget-loading' ).addClass( 'jetpack-likes-widget-loaded' );
+
+					JetpackLikespostMessage( { event: 'loadLikeWidget', name: $iframe.attr( 'name' ), width: $iframe.width() }, window.frames[ 'likes-master' ] );
+
+					if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
+						$wrapper.find( 'iframe' ).Jetpack( 'resizeable' );
+					}
+				});
+				setTimeout( JetpackLikesWidgetQueueHandler, 250 );
+			}
+			JetpackLikesWidgetQueueHandler();
+		//]]>
+		</script>
+<script type='text/javascript' src='http://s2.wp.com/wp-content/js/devicepx.js?m=1399919068g'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script type="text/javascript">
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "bigbangtrans.wordpress.com";
+	</script>
+	<script type="text/javascript" src="http://s.skimresources.com/js/725X1342.skimlinks.js"></script><script src="//stats.wp.com/w.js?23" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'7134765','v':'wpcom','tz':'1','user_id':'0','post':'145','subd':'bigbangtrans'});
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1LVmwrVi5vQS5fVFtfdHBbPyw1VXIrU3hWLHhzVndTdktBX0ddJnpXRjVaOTd6fj1YMX4ydzR6MmRCYnxkNmdpVT12JVV3SnNyVDdZZ0smdExGN3VjUE8mdi4weCsxcGpHfHlnMXBdSDFXLD9zbjlYeUFRcmZPTDhvdDlURkRZL2hSfnZ+bzBLZkt5MURrcXVVR0IvUz9aTnhUJlprYlA1X3NlP111NWVUJixMQjdZMHIybm5oLDc0bkE0WHJ8VGJWPVNCb3hMaEttfmhRMjNfNGhXTXJsQXlUQ1NTSWl5NEpnbFdDZFREP1htVnlNVjJteXE0NFpJcmhybg=='});
+addLoadEvent(function(){linktracker_init('7134765',145);});
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>

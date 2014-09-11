@@ -25,7 +25,6 @@ Below are some of the analysis that this project tries to uncover.
     - Biggest roles(No of speeches by a single character)
     - Character with most mentions
     - Mention of famous personalities
-    - Most used words
     - Character relationship
     - Tag cloud
         * Technical words

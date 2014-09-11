@@ -1,0 +1,858 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<!--
+	generated in 1.003 seconds
+	100062 bytes batcached for 300 seconds
+-->
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Series 1 Episode 04 &#8211; The Luminous Fish Effect | Big Bang Theory Transcripts</title>
+	<!--[if lte IE 8]>
+	<link rel="stylesheet" href="http://s0.wp.com/wp-content/themes/pub/chaoticsoul/ie.css?m=1192578791g" type="text/css" media="screen" />
+	<![endif]-->
+	<link rel="pingback" href="http://bigbangtrans.wordpress.com/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Big Bang Theory Transcripts &raquo; Feed" href="http://bigbangtrans.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Big Bang Theory Transcripts &raquo; Comments Feed" href="http://bigbangtrans.wordpress.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+function addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-0' href='http://s1.wp.com/_static/??-eJx9UNFOwzAM/CGCQRtjPCC+JU3d1J0TR42jqn+/dGga00be7qw739mwJOMkKkaFUEzi4ilmyIEY1zTLhE7v2avL+QWe25hOmGFCTdadzIU9yDsWfzOI99hLUTMIsyywUO+xmUFxoEi6go4YaloqHbjRipLLUrhldTJjnYdkdVME7Mki1y2xmRjS4era4FhvezzreRvIujL+igniNpa68QpaqR7FsDirJPGOmIEtzS3rjNuTK/RQVX/of63HPXiWzl6+9xO+3/dvx8/d8Wv3MZ0B4DTNDg==' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-0' href='http://s0.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1387483371g' type='text/css' media='print' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s1.wp.com/_static/??-eJyFjd0KwjAMRl/IrttQ8EZ8lv1kJbVtapOu6NNbQUFR2FVCcr7v6BLVREEgiLasPY3oQGWGNJh6UxgWaizvdOUwTC7PwE/QXjOk22tsAsqjSYNA4zG84Q9rJBYPzFX55/utwrAilE3MgsRhuqgEjPef1tGRUdFlg4F13Q3MlEUt5BwVXXA2IDVz9qdu37aHY9e3vX0APQlvpA=='></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://bigbangtrans.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='canonical' href='http://bigbangtrans.wordpress.com/series-1-episode-4-the-luminous-fish-effect/' />
+<link rel='shortlink' href='http://wp.me/PtW4R-9' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=json&amp;url=http%3A%2F%2Fbigbangtrans.wordpress.com%2Fseries-1-episode-4-the-luminous-fish-effect%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/1.0/?format=xml&amp;url=http%3A%2F%2Fbigbangtrans.wordpress.com%2Fseries-1-episode-4-the-luminous-fish-effect%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Series 1 Episode 04 - The Luminous Fish Effect" />
+<meta property="og:url" content="http://bigbangtrans.wordpress.com/series-1-episode-4-the-luminous-fish-effect/" />
+<meta property="og:description" content="Scene: Sheldon and Leonard’s apartment. Sheldon: I’ve been thinking about time travel again. Leonard: Why, did you hit a roadblock with invisibility? Sheldon: Put it on the back burner. Anyway, it ..." />
+<meta property="article:published_time" content="2009-03-28T00:59:00+00:00" />
+<meta property="article:modified_time" content="2012-05-09T07:43:25+00:00" />
+<meta property="article:author" content="http://bigbangtrans.wordpress.com/author/bigbangtrans/" />
+<meta property="og:site_name" content="Big Bang Theory Transcripts" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta name="twitter:card" content="summary" />
+<meta property="fb:app_id" content="249643311490" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<link rel="shortcut icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1405977958g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="http://s2.wp.com/i/favicon.ico?m=1405977958g" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="http://s0.wp.com/i/webclip.png?m=1391188133g" />
+<link rel='openid.server' href='http://bigbangtrans.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='http://bigbangtrans.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="http://bigbangtrans.wordpress.com/osd.xml" title="Big Bang Theory Transcripts" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://wordpress.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="Big Bang Theory Transcripts" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content="All the episodes, right here." /><meta name="msapplication-task" content="name=Subscribe;action-uri=http://bigbangtrans.wordpress.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico" /><meta name="title" content="Series 1 Episode 04 &#8211; The Luminous Fish&nbsp;Effect | Big Bang Theory Transcripts on WordPress.com" />
+<meta name="description" content="Scene: Sheldon and Leonard’s apartment. Sheldon: I’ve been thinking about time travel again. Leonard: Why, did you hit a roadblock with invisibility? Sheldon: Put it on the back burner. Anyway, it occurs to me, if I ever did perfect a time machine, I’d just go into the past and give it to myself, thus eliminating&hellip;" />
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+<body class="page page-id-9 page-template-default mp6 highlander-enabled highlander-dark">
+<div id="page">
+
+<div id="header">
+	<h1><a href="http://bigbangtrans.wordpress.com/">Big Bang Theory Transcripts</a></h1>
+	<div class="description">All the episodes, right here.</div>
+</div>
+
+<div class="hr">&nbsp;</div> <!-- because IE sucks at styling HRs -->
+
+<div id="headerimg" class="clearfix">
+	<div id="header-overlay"> </div>
+	<div id="header-image"><img alt="" src="http://bigbangtrans.files.wordpress.com/2009/03/cropped-thebigbangtheory2.jpg" /></div>
+</div>
+
+	<div class="hr">&nbsp;</div>
+
+<div id="wrapper" class="clearfix">
+	<div id="content" class="widecolumn">
+
+    		<div class="post-9 page type-page status-publish hentry post" id="post-9">
+		<h2 class="title">Series 1 Episode 04 &#8211; The Luminous Fish&nbsp;Effect</h2>
+			<div class="entrytext">
+				<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Scene: Sheldon and Leonard’s apartment.</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I’ve been thinking about time travel again.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Why, did you hit a roadblock with invisibility?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Put it on the back burner. Anyway, it occurs to me, if I ever did perfect a time machine, I’d just go into the past and give it to myself, thus eliminating the need for me to invent it in the first place.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Interesting.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Yeah, it really takes the pressure off. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;"><span style="font-family:Calibri;">Leonard: Sounds like a breakthrough, should I call the science magazines and tell them to hold the front cover? <em>(Exiting the apartment.)</em></span></span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: It’s time travel, Leonard, I will have already done that. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Then I guess congratulations are in order.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: No, congratulations will have been in order. You know, I’m not going to enjoy this party.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: I know, I’m familiar with you.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: At the last department party, Dr Finkleday cornered me and talked about spelunking for 45 minutes.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Yes, I was there.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: You know what’s interesting about caves, Leonard?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: What?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Nothing.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Well then we’ll avoid Finkleday, we’ll meet the new department head, congratulate him, shake his hand and go. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: How’s this? Pleased to meet you, Dr Gablehouser. How fortunate for you that the University has chosen to hire you, despite the fact that you’ve done no original research in 25 years, and instead have written a series of popular books that reduce the great concepts of science to a series of anecdotes, each one dumbed down to accommodate the duration of an average bowel movement. Mahalo.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Mahalo’s a nice touch. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Do you know there are only eight consonants in the Hawaiian language.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Interesting, you should lead with that.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Scene: The department party. Sheldon, Raj and Leonard are at the buffet table. </span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Raj: Oh, God, Look at this buffet. I love America.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: You don’t have buffets in India?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Raj: Of course, but it’s all Indian food. You can’t find a bagel in Mumbai to save your life. Schmear me.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Well here’s an interesting turn of events.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: What. <em>(Sees Howard entering with a statuesque blonde)</em> Howard brought a date?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: A more plausible explanation is that his work in robotics has made an amazing leap forward.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;"><span style="font-family:Calibri;">Howard: Hey, what up, science bitches? May I introduce my special lady friend, Summer. <em>(Puts arm around her.)</em></span></span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Summer: I already told you, touching’s extra.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Howard: Right. Sorry.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard <em>(to Sheldon)</em>: Here comes our new boss, be polite.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Gablehouser: Hi fellas, Eric Gablehouser.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Howard: Howard Wolowitz.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Gablehouser: Howard, nice to meet you, and you are?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: An actual real scientist. <em>(To Leonard)</em> How was that?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Scene: The stairwell of the apartment building. Sheldon is carrying a box of his things.</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I can’t believe he fired me.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Well, you did call him a glorified high-school science teacher whose last successful experiment was lighting his own farts.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: In my defence, I prefaced that by saying “with all due respect.”</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Credit sequence.</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Scene: The apartment, Sheldon is in the kitchen cooking, Leonard enters.</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Morning</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Morning.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: You’re making eggs for breakfast?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: This isn’t breakfast, it’s an experiment. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Huh? Cos it looks a lot like breakfast.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I finally have the time to test my hypothesis, about the separation of the water molecules from the egg proteins, and its impact vis-a-vis taste.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Sounds yummy. I look forward to your work with bacon.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: As do I.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: You know, I’m sure if you just apologised to Gablehauser he would give you your job back.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I don’t want my job back. I’ve spent the last three and a half years staring at greaseboards full of equations. Before that I spent four years working on my thesis. Before that I was in college, and before that, I was in the fifth grade. This is my first day off in decades, and I’m going to savour it.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Okay. I’ll let you get back to fixing your eggs.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I’m not just fixing my eggs, I’m fixing everyone’s eggs.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: And we all thank you.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">(Sheldon takes his eggs and sits down. Takes a photograph of them. Writes in his notebook, then takes a forkful. Writes in notebook again.)</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Use new eggs. <em>(There is a knock on the door)</em>.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny <em>(popping her head round)</em>: Hi, hey. I’m running out to the market, do you guys need anything?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Oh, well this would be one of those circumstances that people unfamiliar with the law of large numbers would call a coincidence.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: I’m sorry?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I need eggs. Four dozen should suffice.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Four dozen?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Yes, and evenly distributed amongst brown, white, free range, large, extra-large and jumbo.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Okay, one more time?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Never mind, you won’t get it right, I’d better come with you.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Oh, yay!</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Scene: Penny’s car</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: How come you didn’t go into work today.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I’m taking a sabbatical, because I won’t kow-tow to mediocre minds. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: So you got canned, huh?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Theoretical physicists do not get canned. But yeah. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Well, maybe it’s all for the best, you know I always say, when one door closes, another one opens. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: No it doesn’t. Not unless the two doors are connected by relays, or there are motion sensors involved. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: No, no, I meant&#8230;</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Or the first door closing causes a change of air pressure that acts upon the second door.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Never mind. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Slow down. Slow down, please slow down.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: We’re fine.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Look, you’re not leaving yourself enough space between cars.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Oh, sure I am.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: No, no. Let me do the math for you, this car weighs let’s say 4,000lb, now add say 140 for me, 120 for you.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: 120?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Oh, I’m sorry, did I insult you? Is your body mass somehow tied into your self worth?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Well, yeah.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Interesting. Anyway, that gives us a total weight of, let’s say, 4,400lb.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Let’s say 4,390. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Fine. We’re travelling forward at, good Lord, 51 miles an hour. Now let’s assume that your brakes are new and the callipers are aligned, still, by the time we come to a stop, we’ll be occupying the same space as that Buick in front of us, an impossibility that nature will quickly resolve into death, mutilation and&#8230; oh look, they built a new put-put course.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Scene: The supermarket.</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: This is great. Look at me, out in the real world of ordinary people, just living their ordinary, colourless, workaday lives. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Thank you.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: No, thank you. And thank you, ordinary person. Hey, you want to hear an interesting thing about tomatoes.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Uh, no, no not really. Listen, didn’t you say you needed some eggs. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Uh, yes, but anyone who knows anything about the dynamics of bacterial growth knows to pick up their refrigerated foods on the way out of the supermarket.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Oh, okay, well maybe you should start heading on out then. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: No, this is fun. Oh, the thing about tomatoes, and I think you’ll really enjoy this, is, they’re shelved with the vegetables, but they’re technically a fruit. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Interesting.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Isn’t it?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: No, I mean what you find enjoyable. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon <em>(as Penny selects vitamin supplements)</em>: Oh boy.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: What now?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Well, there’s some value to taking a multivitamin, but the human body can only absorb so much, what you’re buying here are the ingredients for very expensive urine. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Well, maybe that’s what I was going for. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Well then you’ll want some manganese.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;"><span style="font-family:Calibri;">S<em>cene: On the stairwell of the apartment building. </em></span></span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: That was fun. Maybe tomorrow we can go to one of those big warehouse stores. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Oh, I don’t know Sheldon, it’s going to take me a while to recover from all the fun I had today. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Are you sure. There are a lot of advantages to buying in bulk. For example, I noticed that you purchase your tampons one month’s supply at a time.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: What?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Well think about it, it’s a product that doesn’t spoil, and you’re going to be needing them for at least the next thirty years.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: You want me to buy thirty years worth of tampons?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Well, thirty, thirty five, hey, when did your mother go into menopause?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Okay, I’m not talking about this with you.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Oh, Penny, this is a natural human process, and we’re talking about statistically significant savings. Now, if you assume 15 tampons per cycle and a 28 day cycle, are you fairly regular? <em>(Penny shuts door in his face.)</em> Okay, no warehouse store, but we’re still on for put-put golf, right?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Scene: The apartment, Sheldon has several bowls containing goldfish. </span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard (entering): Hey, I just ran into Penny, she seemed upset about something.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I think it’s her time of the month. I marked the calendar for future reference. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: What’s with the fish?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: It’s an experiment. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: What happened to your scrambled egg research?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Oh, that was a dead end. Scrambled eggs are as good as they’re ever going to be.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: So&#8230; fish. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I read an article about Japanese scientists, who inserted DNA from luminous jellyfish into other animals, and I thought hey, fish nightlights.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Fish nightlights.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: It’s a billion dollar idea. Shhhhh!</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Mum’s the word. Sheldon, are you sure you don’t want to just apologise to Gablehauser and get your job back.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Oh, no, no, no. No, I’ve too much to do.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Like luminous fish.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Shhhhh!</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Right&#8230; I didn’t&#8230;.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: That’s just the beginning. I also have an idea for a bulk mail-order feminine hygiene company. Oh, glow in the dark tampons! Leonard, we’re going to be rich. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Scene: The stairwell of the apartment building. </span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Thank you for coming on such short notice.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: You did the right thing calling.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: I didn’t know what else to do, he’s lost all focus, every day he’s got a new obsession. <em>(They enter the apartment. Sheldon is weaving on a loom. He is wrapped in a poncho.)</em> This is a particularly disturbing one. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon <em>(looking round)</em>: Mommy.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Hi baby.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon <em>(mouths)</em>: You called my mother?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Oh, you got yourself a loom, how nice.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Thank you.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Honey, why did you get a loom?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I was working with luminous fish, and I thought, hey, loom! Mom, what are you doing here?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Leonard called me. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I know, but why?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Because one of the great minds of the twenty-first century is raising glow-in-the-dark fish and weaving sarapes. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: This is not a sarape. This is a poncho. A sarape is open at the sides, a poncho is closed, this is a poncho, and neither is a reason to call someone’s mother. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Really, when was the last time you left the house.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I went to the market with Penny.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: That was three weeks ago.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Well then buckle up, in the next four to eight days she’s going to get very crabby.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Sweetheart, your little friend is concerned about you.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Yes, well I’m not a child, I’m a grown man capable of living my life as I see fit. And I certainly don’t need someone telling on me to my mother. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Where are you going?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: To my room, and no-one’s allowed in. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: He gets his temper from his daddy.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Oh. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: He’s got my eyes.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: I see.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: All that science stuff, that comes from Jesus. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Scene: Everyone but Sheldon is in the kitchen of the apartment.</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Sheldon? Your mum made dinner.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon <em>(off)</em>: I’m not hungry. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Oh, Leonard, don’t trouble yourself, he’s stubborn. He may stay in there ‘til the Rapture.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Are we so sure that’s a bad thing?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: I’ll tell ya, I love the boy to death, but he has been difficult since he fell out of me at the K-Mart. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Howard: Excuse me for being so bold, but I now see where Sheldon gets his smouldering good looks.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Oh, honey that ain’t going to work, but you keep trying. <em>(To Raj) </em>I made chicken, I hope that isn’t one of the animals that you people think is magic? You know, we have an Indian gentleman at our church, a Dr Patel, it’s a beautiful story, the lord spoke to him, and moved him to give us all 20% off on lasic, you know, those that needed it. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: That is a lovely story, um, are we going to do anything about Sheldon?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Oh, we will, you have to take your time with Sheldon. His father, God rest his soul, used to say to me, Mary, you have to take your time with Sheldon. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Sounds like a wise man.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Oh, not so wise, he was trying to fight a bobcat for some licquorish. So, everybody grab a plate, and a pretty place mat that Shelly wove. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Has Shelly ever freaked out like this before.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Oh, all the time, I remember one summer when he was thirteen, he built a small nuclear reactor in the shed and told everybody he was going to provide free electricity for the whole town, well the only problem was he had no, whatchacall, fissionable materials. Anyway, when he went on the internets to get some, a man from the government came by and sat him down real gentle and told him it’s against the law to have yellow cake uranium in a shed. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: What happened?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Well, the poor boy had a fit, locked himself in his room and built a sonic death ray. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: A death ray?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Well, that’s what he called it, didn’t even slow down the neighbour kids. It pissed our dog off to no end. You know, you two make a cute couple. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Both Leonard and Penny laugh, a little too forced.</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: No, we’re not, we’re not, not a couple, two singles, like those individually wrapped slices of cheese that&#8230;. are friends.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Did I pluck a nerve there?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Howard: Oh yeah.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Okay. Alright everybody, it’s time to eat. <em>(Everybody begins to do so)</em> Oh Lord, we thank you for this meal, all your bounty, and we pray that you help Sheldon get back on his rocker. <em>(To Raj and Howard) </em>Now after a moment of silent meditation I’m going to end with “In Jesus’ Name” but you two don’t feel any obligation to join in. Unless, of course, the holy spirit moves you. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Time shift</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Oh my God, this is the best cobbler I’ve ever had.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: It was always Sheldon’ s favourite. You know what the secret ingredient is?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Penny: Love?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Lard.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Sheldon emerges from the bedroom area.</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Howard: Hey, look who’s come out&#8230;.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Shhh! You’ll spook him. He’s like a baby deer, you gotta let him come to you.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Sheldon crosses to the cobbler, takes some and puts it on a plate. Looks round at the group in the matter of a frightened animal. Everyone but Leonard looks down at their meal.</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;"><span style="font-family:Calibri;">Leonard: This is ridiculous. Dammit, Sheldon, snap out of it. You’re a physicist, you belong at the University doing research, not hiding in your room. <em>(Sheldon scuttles away)</em></span></span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: You don’t hunt, do you?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Scene: Sheldon’s bedroom. He is building a model of some kind of double helix. There is a knock on the door.</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper <em>(entering)</em>: Good morning, snicker-doodle. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Morning.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Oh, well that looks awful fancy, what is that?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: It’s my idea of what DNA would look like in a silicon based life form. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: But intelligently designed by a creator, right?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: What do you want, mom?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: You know how your daddy used to say that you can only fish for so long before you got to throw a stick of dynamite in the water?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Yeah.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Well, I’m done fishing. <em>(Throwing a pair of trousers on the bed) </em>You put those on.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: What for?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Because you’re going to go down to your office, you’re going to apologise to your boss, and get your job back. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: No.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: I’m sorry, did I start that sentence with the words “if it please your highness?”</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I’m not going to apologise, I didn’t say anything that wasn’t true. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Now you listen here, I have been telling you since you were four years old, it’s okay to be smarter than everybody but you can’t go around pointing it out.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Why not?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;"><span style="font-family:Calibri;">Mrs Cooper: Because people don’t like it. Remember all the ass-kickings you got from the neighbour kids? Now let’s get cracking. Shower, shirt, shoes, and let’s shove off. <em>(Exits)</em></span></span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Wouldn’t have been any ass-kickings if that stupid death ray had worked.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Scene: The kitchen</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Problem solved. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Really? That’s impressive.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Leonard, the Lord never gives us more than we can handle. Thankfully he blessed me with two other children who are dumb as soup. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Scene: Dr Gablehouser’s office</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Excuse me, Dr Gablehouser, are you busy?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Gablehouser: Well, actually&#8230;.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Sheldon, he’s just doodling, get in here. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Dr Gablehouser.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Gablehouser: Dr Cooper.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Let’s go, baby, we’re losing daylight. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Um, as you know, several weeks ago in our first encounter we may have gotten off on the wrong foot, when I called you an idiot. And I just wanted to say that I was wrong. To point it out. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Gablehouser <em>(to Mrs Cooper)</em>: I’m sorry, we haven’t been introduced. Dr Eric Gablehouser.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Mary Cooper, Sheldon’s mom.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Gablehouser: Now that’s impossible, you must have had him when you were a teenager. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Oh, aren’t you sweet, his father’s dead. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Gablehouser: Recently?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Long enough. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Gablehouser <em>(indicating chair)</em>: Please. Sheldon, shouldn’t you be working?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon <em>(leaving)</em>: Okay.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Hey, how did it go?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I got my job back.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: Really? What happened?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: I’m not quite sure. It involves a part of the human experience that has always eluded me. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Leonard: That narrows it down. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Scene: Sheldon’s bedroom. Mrs Cooper is tucking him in.</span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: I’m very proud of you honey, you showed a lot of courage today.</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Thanks, mom. Mom?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: Mmm-hmm?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Sheldon: Is Dr Gablehouser going to be my new daddy?</span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;">Mrs Cooper: We’ll see. Sleep tight. </span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><em><span style="font-size:small;"><span style="font-family:Calibri;">Sheldon turns over to sleep in the glow of a luminous goldfish. </span></span></em></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;"><em>Teleplay: David Litt &amp; Lee Aronsohn</em></span></p>
+<p class="MsoNormal" style="margin:0 0 10pt;"><span style="font-size:small;font-family:Calibri;"><em>Story: Chuck Lorre &amp; Bill Prady</em></span></p>
+<div id="jp-post-flair" class="sharedaddy sharedaddy-dark sd-like-enabled"><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-7134765-9-5411e04d210ce' data-src='//widgets.wp.com/likes/#blog_id=7134765&amp;post_id=9&amp;origin=bigbangtrans.wordpress.com&amp;obj_id=7134765-9-5411e04d210ce' data-name='like-post-frame-7134765-9-5411e04d210ce'><h3 class='sd-title'>Like this:</h3><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height:55px'><span class='button'><span>Like</span></span> <span class="loading">Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div></div>								<br class="clear" />
+			</div>
+		</div>
+	  	
+	
+<!-- You can start editing here. -->
+
+
+
+	</div>
+
+	<div id="sidebar">
+		<div id="text-404271621" class="widget widget_text">			<div class="textwidget"><div align="center">This page takes a lot of time and effort to keep up to date. Perhaps if you get some use out of it, you could chuck me a few pennies towards keeping it going.<p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=4682827"><img src="https://www.paypal.com/en_GB/i/btn/btn_donate_SM.gif"></a></div></div>
+		</div>	<form method="get" id="searchform" action="/">
+	<div><input type="text" value="Search" onblur="this.value=(this.value=='') ? 'Search' : this.value;" onfocus="this.value=(this.value=='Search') ? '' : this.value;" name="s" id="s" />
+	</div>
+	</form>
+<div id="pages-2" class="widget widget_pages"><h3>Pages</h3>		<ul>
+			<li class="page_item page-item-2"><a href="http://bigbangtrans.wordpress.com/about/">About</a></li>
+<li class="page_item page-item-3"><a href="http://bigbangtrans.wordpress.com/series-1-episode-1-pilot-episode/">Series 1 Episode 01 &#8211; Pilot&nbsp;Episode</a></li>
+<li class="page_item page-item-5"><a href="http://bigbangtrans.wordpress.com/series-1-episode-2-the-big-bran-hypothesis/">Series 1 Episode 02 &#8211; The Big Bran&nbsp;Hypothesis</a></li>
+<li class="page_item page-item-7"><a href="http://bigbangtrans.wordpress.com/series-1-episode-3-the-fuzzy-boots-corollary/">Series 1 Episode 03 &#8211; The Fuzzy Boots&nbsp;Corollary</a></li>
+<li class="page_item page-item-9 current_page_item"><a href="http://bigbangtrans.wordpress.com/series-1-episode-4-the-luminous-fish-effect/">Series 1 Episode 04 &#8211; The Luminous Fish&nbsp;Effect</a></li>
+<li class="page_item page-item-11"><a href="http://bigbangtrans.wordpress.com/series-1-episode-5-the-hamburger-postulate/">Series 1 Episode 05 &#8211; The Hamburger&nbsp;Postulate</a></li>
+<li class="page_item page-item-21"><a href="http://bigbangtrans.wordpress.com/series-1-episode-6-the-middle-earth-paradigm/">Series 1 Episode 06 &#8211; The Middle Earth&nbsp;Paradigm</a></li>
+<li class="page_item page-item-28"><a href="http://bigbangtrans.wordpress.com/series-1-episode-7-the-dumpling-paradox/">Series 1 Episode 07 &#8211; The Dumpling&nbsp;Paradox</a></li>
+<li class="page_item page-item-30"><a href="http://bigbangtrans.wordpress.com/series-1-episode-8-the-grasshopper-experiment/">Series 1 Episode 08 &#8211; The Grasshopper&nbsp;Experiment</a></li>
+<li class="page_item page-item-33"><a href="http://bigbangtrans.wordpress.com/series-1-episode-9-the-cooper-hofstadter-polarization/">Series 1 Episode 09 &#8211; The Cooper-Hofstadter Polarization</a></li>
+<li class="page_item page-item-35"><a href="http://bigbangtrans.wordpress.com/series-1-episode-10-the-loobenfeld-decay/">Series 1 Episode 10 &#8211; The Loobenfeld&nbsp;Decay</a></li>
+<li class="page_item page-item-49"><a href="http://bigbangtrans.wordpress.com/series-1-episode-11-the-pancake-batter-anomaly/">Series 1 Episode 11 &#8211; The Pancake Batter&nbsp;Anomaly</a></li>
+<li class="page_item page-item-47"><a href="http://bigbangtrans.wordpress.com/series-1-episode-12-the-jerusalem-duality/">Series 1 Episode 12 &#8211; The Jerusalem&nbsp;Duality</a></li>
+<li class="page_item page-item-54"><a href="http://bigbangtrans.wordpress.com/series-1-episode-13-the-bat-jar-conjecture/">Series 1 Episode 13 &#8211; The Bat Jar&nbsp;Conjecture</a></li>
+<li class="page_item page-item-56"><a href="http://bigbangtrans.wordpress.com/series-1-episode-14-the-nerdvana-annihilation/">Series 1 Episode 14 &#8211; The Nerdvana&nbsp;Annihilation</a></li>
+<li class="page_item page-item-59"><a href="http://bigbangtrans.wordpress.com/series-1-episode-15-the-porkchop-indeterminacy/">Series 1 Episode 15 &#8211; The Porkchop&nbsp;Indeterminacy</a></li>
+<li class="page_item page-item-62"><a href="http://bigbangtrans.wordpress.com/series-1-episode-16-the-peanut-reaction/">Series 1 Episode 16 &#8211; The Peanut&nbsp;Reaction</a></li>
+<li class="page_item page-item-64"><a href="http://bigbangtrans.wordpress.com/series-1-episode-17-the-tangerine-factor/">Series 1 Episode 17 &#8211; The Tangerine&nbsp;Factor</a></li>
+<li class="page_item page-item-66"><a href="http://bigbangtrans.wordpress.com/series-2-episode-01-the-bad-fish-paradigm/">Series 2 Episode 01 &#8211; The Bad Fish&nbsp;Paradigm</a></li>
+<li class="page_item page-item-68"><a href="http://bigbangtrans.wordpress.com/series-2-episode-02-the-codpiece-topology/">Series 2 Episode 02 &#8211; The Codpiece&nbsp;Topology</a></li>
+<li class="page_item page-item-70"><a href="http://bigbangtrans.wordpress.com/series-2-episode-03-the-barbarian-sublimation/">Series 2 Episode 03 &#8211; The Barbarian&nbsp;Sublimation</a></li>
+<li class="page_item page-item-72"><a href="http://bigbangtrans.wordpress.com/series-2-episode-04-the-griffin-equivalency/">Series 2 Episode 04 &#8211; The Griffin&nbsp;Equivalency</a></li>
+<li class="page_item page-item-81"><a href="http://bigbangtrans.wordpress.com/series-2-episode-5-the-euclid-alternative/">Series 2 Episode 05 &#8211; The Euclid&nbsp;Alternative</a></li>
+<li class="page_item page-item-90"><a href="http://bigbangtrans.wordpress.com/series-2-episode-06-the-cooper-nowitzki-theorem-2/">Series 2 Episode 06 &#8211; The Cooper-Nowitzki&nbsp;Theorem</a></li>
+<li class="page_item page-item-93"><a href="http://bigbangtrans.wordpress.com/series-2-episode-07-the-panty-pinata-polarization/">Series 2 Episode 07 &#8211; The Panty Pinata&nbsp;Polarization</a></li>
+<li class="page_item page-item-96"><a href="http://bigbangtrans.wordpress.com/series-1-episode-08-the-lizard-spock-expansion/">Series 2 Episode 08 &#8211; The Lizard-Spock&nbsp;Expansion</a></li>
+<li class="page_item page-item-100"><a href="http://bigbangtrans.wordpress.com/series-2-episode-09-the-white-asparagus-triangulation/">Series 2 Episode 09 &#8211; The White Asparagus&nbsp;Triangulation</a></li>
+<li class="page_item page-item-103"><a href="http://bigbangtrans.wordpress.com/series-2-episode-11-the-vartabedian-conundrum/">Series 2 Episode 10 &#8211; The Vartabedian&nbsp;Conundrum</a></li>
+<li class="page_item page-item-106"><a href="http://bigbangtrans.wordpress.com/series-2-episode-11-the-bath-item-gift-hypothesis/">Series 2 Episode 11 &#8211; The Bath Item Gift&nbsp;Hypothesis</a></li>
+<li class="page_item page-item-108"><a href="http://bigbangtrans.wordpress.com/series-2-episode-12-the-killer-robot-instability/">Series 2 Episode 12 &#8211; The Killer Robot&nbsp;Instability</a></li>
+<li class="page_item page-item-110"><a href="http://bigbangtrans.wordpress.com/series-2-episode-13-the-friendship-algorithm/">Series 2 Episode 13 &#8211; The Friendship&nbsp;Algorithm</a></li>
+<li class="page_item page-item-118"><a href="http://bigbangtrans.wordpress.com/series-2-episode-14-the-financial-permeability-2/">Series 2 Episode 14 &#8211; The Financial&nbsp;Permeability</a></li>
+<li class="page_item page-item-120"><a href="http://bigbangtrans.wordpress.com/series-2-episode-15-the-maternal-capacitance/">Series 2 Episode 15 &#8211; The Maternal&nbsp;Capacitance</a></li>
+<li class="page_item page-item-127"><a href="http://bigbangtrans.wordpress.com/series-2-episode-16-the-cushion-saturation-3/">Series 2 Episode 16 &#8211; The Cushion&nbsp;Saturation</a></li>
+<li class="page_item page-item-131"><a href="http://bigbangtrans.wordpress.com/series-2-episode-17-the-terminator-decoupling/">Series 2 Episode 17 &#8211; The Terminator&nbsp;Decoupling</a></li>
+<li class="page_item page-item-133"><a href="http://bigbangtrans.wordpress.com/series-2-episode-18-the-work-song-nanocluster/">Series 2 Episode 18 &#8211; The Work Song&nbsp;Nanocluster</a></li>
+<li class="page_item page-item-135"><a href="http://bigbangtrans.wordpress.com/series-2-episode-19-the-dead-hooker-juxtaposition/">Series 2 Episode 19 &#8211; The Dead Hooker&nbsp;Juxtaposition</a></li>
+<li class="page_item page-item-137"><a href="http://bigbangtrans.wordpress.com/series-2-episode-20-the-hofstadter-isotope/">Series 2 Episode 20 &#8211; The Hofstadter&nbsp;Isotope</a></li>
+<li class="page_item page-item-139"><a href="http://bigbangtrans.wordpress.com/series-2-episode-21-the-vegas-renormalization/">Series 2 Episode 21 &#8211; The Vegas&nbsp;Renormalization</a></li>
+<li class="page_item page-item-142"><a href="http://bigbangtrans.wordpress.com/series-2-episode-22-the-classified-materials-turbulence/">Series 2 Episode 22 &#8211; The Classified Materials&nbsp;Turbulence</a></li>
+<li class="page_item page-item-145"><a href="http://bigbangtrans.wordpress.com/series-2-episode-23-the-monopolar-expedition/">Series 2 Episode 23 &#8211; The Monopolar&nbsp;Expedition</a></li>
+<li class="page_item page-item-148"><a href="http://bigbangtrans.wordpress.com/series-3-episode-01-the-electric-can-opener-fluctuation/">Series 3 Episode 01 &#8211; The Electric Can Opener&nbsp;Fluctuation</a></li>
+<li class="page_item page-item-150"><a href="http://bigbangtrans.wordpress.com/series-3-episode-02-the-jiminy-conjecture/">Series 3 Episode 02 &#8211; The Jiminy&nbsp;Conjecture</a></li>
+<li class="page_item page-item-152"><a href="http://bigbangtrans.wordpress.com/series-3-episode-03-the-gothowitz-deviation/">Series 3 Episode 03 &#8211; The Gothowitz&nbsp;Deviation</a></li>
+<li class="page_item page-item-154"><a href="http://bigbangtrans.wordpress.com/series-3-episode-04-the-pirate-solution/">Series 3 Episode 04 &#8211; The Pirate&nbsp;Solution</a></li>
+<li class="page_item page-item-157"><a href="http://bigbangtrans.wordpress.com/series-3-episode-05-the-creepy-candy-coating-corollary/">Series 3 Episode 05 &#8211; The Creepy Candy Coating&nbsp;Corollary</a></li>
+<li class="page_item page-item-159"><a href="http://bigbangtrans.wordpress.com/series-3-episode-06-the-cornhusker-vortex/">Series 3 Episode 06 &#8211; The Cornhusker&nbsp;Vortex</a></li>
+<li class="page_item page-item-162"><a href="http://bigbangtrans.wordpress.com/series-3-episode-07-the-guitarist-amplification/">Series 3 Episode 07 &#8211; The Guitarist&nbsp;Amplification</a></li>
+<li class="page_item page-item-164"><a href="http://bigbangtrans.wordpress.com/series-3-episode-08-the-adhesive-duck-deficiency/">Series 3 Episode 08 &#8211; The Adhesive Duck&nbsp;Deficiency</a></li>
+<li class="page_item page-item-166"><a href="http://bigbangtrans.wordpress.com/series-3-episode-09-the-vengeance-formulation/">Series 3 Episode 09 &#8211; The Vengeance&nbsp;Formulation</a></li>
+<li class="page_item page-item-168"><a href="http://bigbangtrans.wordpress.com/series-3-episode-10-the-gorilla-experiment/">Series 3 Episode 10 &#8211; The Gorilla&nbsp;Experiment</a></li>
+<li class="page_item page-item-170"><a href="http://bigbangtrans.wordpress.com/series-3-episode-11-the-maternal-congruence/">Series 3 Episode 11 &#8211; The Maternal&nbsp;Congruence</a></li>
+<li class="page_item page-item-172"><a href="http://bigbangtrans.wordpress.com/series-3-episode-12-the-psychic-vortex/">Series 3 Episode 12 &#8211; The Psychic&nbsp;Vortex</a></li>
+<li class="page_item page-item-173"><a href="http://bigbangtrans.wordpress.com/series-3-episode-13-the-bozeman-reaction/">Series 3 Episode 13 &#8211; The Bozeman&nbsp;Reaction</a></li>
+<li class="page_item page-item-174"><a href="http://bigbangtrans.wordpress.com/series-3-episode-14-the-einstein-approximation/">Series 3 Episode 14 &#8211; The Einstein&nbsp;Approximation</a></li>
+<li class="page_item page-item-176"><a href="http://bigbangtrans.wordpress.com/series-3-episode-15-the-large-hadron-collision/">Series 3 Episode 15 &#8211; The Large Hadron&nbsp;Collision</a></li>
+<li class="page_item page-item-179"><a href="http://bigbangtrans.wordpress.com/series-3-episode-16-the-excelsior-acquisition/">Series 3 Episode 16 &#8211; The Excelsior&nbsp;Acquisition</a></li>
+<li class="page_item page-item-184"><a href="http://bigbangtrans.wordpress.com/series-3-episode-17-the-precious-fragmentation/">Series 3 Episode 17 &#8211; The Precious&nbsp;Fragmentation</a></li>
+<li class="page_item page-item-188"><a href="http://bigbangtrans.wordpress.com/series-3-episode-18-the-pants-alternative/">Series 3 Episode 18 &#8211; The Pants&nbsp;Alternative</a></li>
+<li class="page_item page-item-190"><a href="http://bigbangtrans.wordpress.com/series-3-episode-19-the-wheaton-recurrence/">Series 3 Episode 19 &#8211; The Wheaton&nbsp;Recurrence</a></li>
+<li class="page_item page-item-192"><a href="http://bigbangtrans.wordpress.com/series-3-episode-20-the-spaghetti-catalyst/">Series 3 Episode 20 &#8211; The Spaghetti&nbsp;Catalyst</a></li>
+<li class="page_item page-item-196"><a href="http://bigbangtrans.wordpress.com/series-3-episode-21-the-plimpton-stimulation/">Series 3 Episode 21 &#8211; The Plimpton&nbsp;Stimulation</a></li>
+<li class="page_item page-item-201"><a href="http://bigbangtrans.wordpress.com/series-3-episode-22-the-staircase-implementation/">Series 3 Episode 22 &#8211; The Staircase&nbsp;Implementation</a></li>
+<li class="page_item page-item-203"><a href="http://bigbangtrans.wordpress.com/series-3-episode-23-the-lunar-excitation/">Series 3 Episode 23 &#8211; The Lunar&nbsp;Excitation</a></li>
+<li class="page_item page-item-213"><a href="http://bigbangtrans.wordpress.com/series-4-episode-01-the-robotic-manipulation/">Series 4 Episode 01 &#8211; The Robotic&nbsp;Manipulation</a></li>
+<li class="page_item page-item-216"><a href="http://bigbangtrans.wordpress.com/series-4-episode-02-the-cruciferous-vegetable-amplification/">Series 4 Episode 02 &#8211; The Cruciferous Vegetable&nbsp;Amplification</a></li>
+<li class="page_item page-item-218"><a href="http://bigbangtrans.wordpress.com/series-4-episode-03-the-zazzy-substitution/">Series 4 Episode 03 &#8211; The Zazzy&nbsp;Substitution</a></li>
+<li class="page_item page-item-220"><a href="http://bigbangtrans.wordpress.com/series-4-episode-04-the-hot-troll-deviation/">Series 4 Episode 04 &#8211; The Hot Troll&nbsp;Deviation</a></li>
+<li class="page_item page-item-222"><a href="http://bigbangtrans.wordpress.com/series-4-episode-05-the-desperation-emanation/">Series 4 Episode 05 &#8211; The Desperation&nbsp;Emanation</a></li>
+<li class="page_item page-item-225"><a href="http://bigbangtrans.wordpress.com/series-4-episode-06-the-irish-pub-formulation/">Series 4 Episode 06 &#8211; The Irish Pub&nbsp;Formulation</a></li>
+<li class="page_item page-item-228"><a href="http://bigbangtrans.wordpress.com/series-4-episode-07-the-apology-insufficiency/">Series 4 Episode 07 &#8211; The Apology&nbsp;Insufficiency</a></li>
+<li class="page_item page-item-230"><a href="http://bigbangtrans.wordpress.com/series-4-episode-08-the-21-second-excitation/">Series 4 Episode 08 &#8211; The 21 Second&nbsp;Excitation</a></li>
+<li class="page_item page-item-233"><a href="http://bigbangtrans.wordpress.com/series-4-episode-09-the-boyfriend-complexity/">Series 4 Episode 09 &#8211; The Boyfriend&nbsp;Complexity</a></li>
+<li class="page_item page-item-236"><a href="http://bigbangtrans.wordpress.com/series-4-episode-10-the-alien-parasite-hypothesis/">Series 4 Episode 10 &#8211; The Alien Parasite&nbsp;Hypothesis</a></li>
+<li class="page_item page-item-238"><a href="http://bigbangtrans.wordpress.com/series-4-episode-11-the-justice-league-recombination/">Series 4 Episode 11 &#8211; The Justice League&nbsp;Recombination</a></li>
+<li class="page_item page-item-240"><a href="http://bigbangtrans.wordpress.com/series-4-episode-12-the-bus-pants-utilization/">Series 4 Episode 12 &#8211; The Bus Pants&nbsp;Utilization</a></li>
+<li class="page_item page-item-244"><a href="http://bigbangtrans.wordpress.com/series-4-episode-13-the-love-car-displacement/">Series 4 Episode 13 &#8211; The Love Car&nbsp;Displacement</a></li>
+<li class="page_item page-item-247"><a href="http://bigbangtrans.wordpress.com/series-4-episode-14-the-thespian-catalyst/">Series 4 Episode 14 &#8211; The Thespian&nbsp;Catalyst</a></li>
+<li class="page_item page-item-250"><a href="http://bigbangtrans.wordpress.com/series-4-episode-15-the-benefactor-factor/">Series 4 Episode 15 &#8211; The Benefactor&nbsp;Factor</a></li>
+<li class="page_item page-item-252"><a href="http://bigbangtrans.wordpress.com/series-4-episode-16-the-cohabitation-formulation/">Series 4 Episode 16 &#8211; The Cohabitation&nbsp;Formulation</a></li>
+<li class="page_item page-item-255"><a href="http://bigbangtrans.wordpress.com/series-4-episode-17-the-toast-derivation/">Series 4 Episode 17 &#8211; The Toast&nbsp;Derivation</a></li>
+<li class="page_item page-item-261"><a href="http://bigbangtrans.wordpress.com/series-4-episode-18-the-prestidigitation-approximation/">Series 4 Episode 18 &#8211; The Prestidigitation Approximation</a></li>
+<li class="page_item page-item-264"><a href="http://bigbangtrans.wordpress.com/series-4-episode-19-the-zarnecki-incursion/">Series 4 Episode 19 &#8211; The Zarnecki&nbsp;Incursion</a></li>
+<li class="page_item page-item-269"><a href="http://bigbangtrans.wordpress.com/series-4-episode-20-the-herb-garden-germination/">Series 4 Episode 20 &#8211; The Herb Garden&nbsp;Germination</a></li>
+<li class="page_item page-item-272"><a href="http://bigbangtrans.wordpress.com/series-4-episode-21-the-agreement-dissection/">Series 4 Episode 21 &#8211; The Agreement&nbsp;Dissection</a></li>
+<li class="page_item page-item-274"><a href="http://bigbangtrans.wordpress.com/series-4-episode-22-the-wildebeest-implementation/">Series 4 Episode 22 &#8211; The Wildebeest&nbsp;Implementation</a></li>
+<li class="page_item page-item-278"><a href="http://bigbangtrans.wordpress.com/series-4-episode-23-the-engagement-reaction/">Series 4 Episode 23 &#8211; The Engagement&nbsp;Reaction</a></li>
+<li class="page_item page-item-280"><a href="http://bigbangtrans.wordpress.com/series-4-episode-24-the-roommate-transmogrification/">Series 4 Episode 24 &#8211; The Roommate Transmogrification</a></li>
+<li class="page_item page-item-286"><a href="http://bigbangtrans.wordpress.com/series-5-episode-01-the-skank-reflex-analysis/">Series 5 Episode 01 &#8211; The Skank Reflex&nbsp;Analysis</a></li>
+<li class="page_item page-item-294"><a href="http://bigbangtrans.wordpress.com/series-5-episode-02-the-infestation-hypothesis/">Series 5 Episode 02 &#8211; The Infestation&nbsp;Hypothesis</a></li>
+<li class="page_item page-item-299"><a href="http://bigbangtrans.wordpress.com/series-5-episode-03-the-pulled-groin-extrapolation/">Series 5 Episode 03 &#8211; The Pulled Groin&nbsp;Extrapolation</a></li>
+<li class="page_item page-item-304"><a href="http://bigbangtrans.wordpress.com/series-5-episode-04-the-wiggly-finger-catalyst/">Series 5 Episode 04 &#8211; The Wiggly Finger&nbsp;Catalyst</a></li>
+<li class="page_item page-item-306"><a href="http://bigbangtrans.wordpress.com/series-5-episode-05-the-russian-rocket-reaction/">Series 5 Episode 05 &#8211; The Russian Rocket&nbsp;Reaction</a></li>
+<li class="page_item page-item-308"><a href="http://bigbangtrans.wordpress.com/series-5-episode-06-the-rhinitis-revelation/">Series 5 Episode 06 &#8211; The Rhinitis&nbsp;Revelation</a></li>
+<li class="page_item page-item-311"><a href="http://bigbangtrans.wordpress.com/series-5-episode-07-the-good-guy-fluctuation/">Series 5 Episode 07 &#8211; The Good Guy&nbsp;Fluctuation</a></li>
+<li class="page_item page-item-313"><a href="http://bigbangtrans.wordpress.com/series-5-episode-08-the-isolation-permutation/">Series 5 Episode 08 &#8211; The Isolation&nbsp;Permutation</a></li>
+<li class="page_item page-item-318"><a href="http://bigbangtrans.wordpress.com/series-5-episode-09-the-ornithophobia-diffusion/">Series 5 Episode 09 &#8211; The Ornithophobia&nbsp;Diffusion</a></li>
+<li class="page_item page-item-326"><a href="http://bigbangtrans.wordpress.com/series-5-episode-10-the-flaming-spittoon-acquisition/">Series 5 Episode 10 &#8211; The Flaming Spittoon&nbsp;Acquisition</a></li>
+<li class="page_item page-item-335"><a href="http://bigbangtrans.wordpress.com/series-5-episode-11-the-speckerman-recurrence/">Series 5 Episode 11 &#8211; The Speckerman&nbsp;Recurrence</a></li>
+<li class="page_item page-item-337"><a href="http://bigbangtrans.wordpress.com/series-5-episode-12-the-shiny-trinket-maneouvre/">Series 5 Episode 12 &#8211; The Shiny Trinket&nbsp;Maneouvre</a></li>
+<li class="page_item page-item-340"><a href="http://bigbangtrans.wordpress.com/series-5-episode-13-the-recombination-hypothesis/">Series 5 Episode 13 &#8211; The Recombination&nbsp;Hypothesis</a></li>
+<li class="page_item page-item-343"><a href="http://bigbangtrans.wordpress.com/series-5-episode-14-the-beta-test-initiation/">Series 5 Episode 14 &#8211; The Beta Test&nbsp;Initiation</a></li>
+<li class="page_item page-item-345"><a href="http://bigbangtrans.wordpress.com/series-5-episode-15-the-friendship-contraction/">Series 5 Episode 15 &#8211; The Friendship&nbsp;Contraction</a></li>
+<li class="page_item page-item-349"><a href="http://bigbangtrans.wordpress.com/series-5-episode-16-the-vacation-solution/">Series 5 Episode 16 &#8211; The Vacation&nbsp;Solution</a></li>
+<li class="page_item page-item-353"><a href="http://bigbangtrans.wordpress.com/series-5-episode-17-the-rothman-disintegration/">Series 5 Episode 17 &#8211; The Rothman&nbsp;Disintegration</a></li>
+<li class="page_item page-item-357"><a href="http://bigbangtrans.wordpress.com/series-5-episode-18-the-werewolf-transformation/">Series 5 Episode 18 &#8211; The Werewolf&nbsp;Transformation</a></li>
+<li class="page_item page-item-360"><a href="http://bigbangtrans.wordpress.com/series-5-episode-19-the-weekend-vortex/">Series 5 Episode 19 &#8211; The Weekend&nbsp;Vortex</a></li>
+<li class="page_item page-item-363"><a href="http://bigbangtrans.wordpress.com/series-5-episode-20-the-transporter-malfunction/">Series 5 Episode 20 &#8211; The Transporter&nbsp;Malfunction</a></li>
+<li class="page_item page-item-366"><a href="http://bigbangtrans.wordpress.com/series-5-episode-21-the-hawking-excitation/">Series 5 Episode 21 &#8211; The Hawking&nbsp;Excitation</a></li>
+<li class="page_item page-item-370"><a href="http://bigbangtrans.wordpress.com/series-5-episode-22-the-stag-convergence/">Series 5 Episode 22 &#8211; The Stag&nbsp;Convergence</a></li>
+<li class="page_item page-item-381"><a href="http://bigbangtrans.wordpress.com/series-5-episode-23-the-launch-acceleration/">Series 5 Episode 23 &#8211; The Launch&nbsp;Acceleration</a></li>
+<li class="page_item page-item-383"><a href="http://bigbangtrans.wordpress.com/series-5-episode-24-the-countdown-reflection/">Series 5 Episode 24 &#8211; The Countdown&nbsp;Reflection</a></li>
+<li class="page_item page-item-388"><a href="http://bigbangtrans.wordpress.com/series-6-episode-01-the-date-night-variable/">Series 6 Episode 01 &#8211; The Date Night&nbsp;Variable</a></li>
+<li class="page_item page-item-391"><a href="http://bigbangtrans.wordpress.com/series-6-episode-02-the-decoupling-fluctuation/">Series 6 Episode 02 &#8211; The Decoupling&nbsp;Fluctuation</a></li>
+<li class="page_item page-item-393"><a href="http://bigbangtrans.wordpress.com/series-6-episode-03-the-higgs-boson-observation/">Series 6 Episode 03 &#8211; The Higgs Boson&nbsp;Observation</a></li>
+<li class="page_item page-item-396"><a href="http://bigbangtrans.wordpress.com/series-6-episode-04-the-re-entry-minimization/">Series 6 Episode 04 &#8211; The Re-Entry&nbsp;Minimization</a></li>
+<li class="page_item page-item-403"><a href="http://bigbangtrans.wordpress.com/series-6-episode-05-the-holographic-excitation/">Series 6 Episode 05 &#8211; The Holographic&nbsp;Excitation</a></li>
+<li class="page_item page-item-405"><a href="http://bigbangtrans.wordpress.com/series-6-episode-06-the-extract-obliteration/">Series 6 Episode 06 &#8211; The Extract&nbsp;Obliteration</a></li>
+<li class="page_item page-item-408"><a href="http://bigbangtrans.wordpress.com/series-6-episode-07-the-habitation-configuration/">Series 6 Episode 07 &#8211; The Habitation&nbsp;Configuration</a></li>
+<li class="page_item page-item-411"><a href="http://bigbangtrans.wordpress.com/series-6-episode-08-the-43-peculiarity/">Series 6 Episode 08 &#8211; The 43&nbsp;Peculiarity</a></li>
+<li class="page_item page-item-413"><a href="http://bigbangtrans.wordpress.com/series-6-episode-09-the-parking-spot-escalation/">Series 6 Episode 09 &#8211; The Parking Spot&nbsp;Escalation</a></li>
+<li class="page_item page-item-415"><a href="http://bigbangtrans.wordpress.com/series-6-episode-10-the-fish-guts-displacement/">Series 6 Episode 10 &#8211; The Fish Guts&nbsp;Displacement</a></li>
+<li class="page_item page-item-421"><a href="http://bigbangtrans.wordpress.com/series-6-episode-11-the-santa-simulation/">Series 6 Episode 11 &#8211; The Santa&nbsp;Simulation</a></li>
+<li class="page_item page-item-425"><a href="http://bigbangtrans.wordpress.com/series-6-episode-12-the-egg-salad-equivalency/">Series 6 Episode 12 &#8211; The Egg Salad&nbsp;Equivalency</a></li>
+<li class="page_item page-item-429"><a href="http://bigbangtrans.wordpress.com/series-6-episode-13-the-bakersfield-expedition/">Series 6 Episode 13 &#8211; The Bakersfield&nbsp;Expedition</a></li>
+<li class="page_item page-item-431"><a href="http://bigbangtrans.wordpress.com/series-6-episode-14-the-cooperkripke-inversion/">Series 6 Episode 14 &#8211; The Cooper/Kripke&nbsp;Inversion</a></li>
+<li class="page_item page-item-433"><a href="http://bigbangtrans.wordpress.com/series-6-episode-15-the-spoiler-alert-segmentation/">Series 6 Episode 15 &#8211; The Spoiler Alert&nbsp;Segmentation</a></li>
+<li class="page_item page-item-436"><a href="http://bigbangtrans.wordpress.com/series-6-episode-16-the-tangible-affection-proof/">Series 6 Episode 16 &#8211; The Tangible Affection&nbsp;Proof</a></li>
+<li class="page_item page-item-439"><a href="http://bigbangtrans.wordpress.com/series-6-episode-17-the-monster-isolation/">Series 6 Episode 17 &#8211; The Monster&nbsp;Isolation</a></li>
+<li class="page_item page-item-443"><a href="http://bigbangtrans.wordpress.com/series-6-episode-18-the-contractual-obligation-implementation/">Series 6 Episode 18 &#8211; The Contractual Obligation&nbsp;Implementation</a></li>
+<li class="page_item page-item-445"><a href="http://bigbangtrans.wordpress.com/series-6-episode-19-the-closet-reconfiguration/">Series 6 Episode 19 &#8211; The Closet&nbsp;Reconfiguration</a></li>
+<li class="page_item page-item-447"><a href="http://bigbangtrans.wordpress.com/series-6-episode-20-the-tenure-turbulence/">Series 6 Episode 20 &#8211; The Tenure&nbsp;Turbulence</a></li>
+<li class="page_item page-item-449"><a href="http://bigbangtrans.wordpress.com/series-6-episode-21-the-closure-alternative/">Series 6 Episode 21 &#8211; The Closure&nbsp;Alternative</a></li>
+<li class="page_item page-item-451"><a href="http://bigbangtrans.wordpress.com/series-6-episode-22-the-proton-resurgence/">Series 6 Episode 22 &#8211; The Proton&nbsp;Resurgence</a></li>
+<li class="page_item page-item-456"><a href="http://bigbangtrans.wordpress.com/series-06-episode-23-the-love-spell-potential/">Series 6 Episode 23 &#8211; The Love Spell&nbsp;Potential</a></li>
+<li class="page_item page-item-460"><a href="http://bigbangtrans.wordpress.com/series-06-episode-24-the-bon-voyage-reaction/">Series 6 Episode 24 &#8211; The Bon Voyage&nbsp;Reaction</a></li>
+<li class="page_item page-item-569"><a href="http://bigbangtrans.wordpress.com/series-7-episode-01-the-hofstadter-insufficiency/">Series 7 Episode 01 &#8211; The Hofstadter&nbsp;Insufficiency</a></li>
+<li class="page_item page-item-576"><a href="http://bigbangtrans.wordpress.com/series-7-episode-02-the-deception-verification/">Series 7 Episode 02 &#8211; The Deception&nbsp;Verification</a></li>
+<li class="page_item page-item-597"><a href="http://bigbangtrans.wordpress.com/series-7-episode-03-the-scavenger-vortex/">Series 7 Episode 03 &#8211; The Scavenger&nbsp;Vortex</a></li>
+<li class="page_item page-item-599"><a href="http://bigbangtrans.wordpress.com/series-7-episode-04-the-raiders-minimization/">Series 7 Episode 04 &#8211; The Raiders&nbsp;Minimization</a></li>
+<li class="page_item page-item-608"><a href="http://bigbangtrans.wordpress.com/series-7-episode-05-the-workplace-proximity/">Series 7 Episode 05 &#8211; The Workplace&nbsp;Proximity</a></li>
+<li class="page_item page-item-610"><a href="http://bigbangtrans.wordpress.com/series-7-episode-06-the-romance-resonance/">Series 7 Episode 06 &#8211; The Romance&nbsp;Resonance</a></li>
+<li class="page_item page-item-612"><a href="http://bigbangtrans.wordpress.com/series-7-episode-07-the-proton-displacement/">Series 7 Episode 07 &#8211; The Proton&nbsp;Displacement</a></li>
+<li class="page_item page-item-614"><a href="http://bigbangtrans.wordpress.com/series-7-episode-08-the-itchy-brain-simulation/">Series 7 Episode 08 &#8211; The Itchy Brain&nbsp;Simulation</a></li>
+<li class="page_item page-item-617"><a href="http://bigbangtrans.wordpress.com/series-7-episode-09-the-thanksgiving-decoupling/">Series 7 Episode 09 &#8211; The Thanksgiving&nbsp;Decoupling</a></li>
+<li class="page_item page-item-619"><a href="http://bigbangtrans.wordpress.com/series-7-episode-10-the-discovery-dissipation/">Series 7 Episode 10 &#8211; The Discovery&nbsp;Dissipation</a></li>
+<li class="page_item page-item-621"><a href="http://bigbangtrans.wordpress.com/series-7-episode-11-the-cooper-extraction/">Series 7 Episode 11 &#8211; The Cooper&nbsp;Extraction</a></li>
+<li class="page_item page-item-623"><a href="http://bigbangtrans.wordpress.com/series-7-episode-12-the-hesitation-ramification/">Series 7 Episode 12 &#8211; The Hesitation&nbsp;Ramification</a></li>
+<li class="page_item page-item-625"><a href="http://bigbangtrans.wordpress.com/series-7-episode-13-the-occupation-recalibration/">Series 7 Episode 13 &#8211; The Occupation&nbsp;Recalibration</a></li>
+<li class="page_item page-item-627"><a href="http://bigbangtrans.wordpress.com/series-7-episode-14-the-convention-conundrum/">Series 7 Episode 14 &#8211; The Convention&nbsp;Conundrum</a></li>
+<li class="page_item page-item-629"><a href="http://bigbangtrans.wordpress.com/series-7-episode-15-the-locomotive-manipulation/">Series 7 Episode 15 &#8211; The Locomotive&nbsp;Manipulation</a></li>
+<li class="page_item page-item-635"><a href="http://bigbangtrans.wordpress.com/series-7-episode-16-the-table-polarisation/">Series 7 Episode 16 &#8211; The Table&nbsp;Polarisation</a></li>
+<li class="page_item page-item-639"><a href="http://bigbangtrans.wordpress.com/series-7-episode-17-the-friendship-turbulence/">Series 7 Episode 17 &#8211; The Friendship&nbsp;Turbulence</a></li>
+<li class="page_item page-item-641"><a href="http://bigbangtrans.wordpress.com/series-7-episode-18-the-mommy-observation/">Series 7 Episode 18 &#8211; The Mommy&nbsp;Observation</a></li>
+<li class="page_item page-item-643"><a href="http://bigbangtrans.wordpress.com/series-7-episode-19-the-indecision-amalgamation/">Series 7 Episode 19 &#8211; The Indecision&nbsp;Amalgamation</a></li>
+<li class="page_item page-item-645"><a href="http://bigbangtrans.wordpress.com/series-7-episode-20-the-relationship-diremption/">Series 7 Episode 20 &#8211; The Relationship&nbsp;Diremption</a></li>
+<li class="page_item page-item-648"><a href="http://bigbangtrans.wordpress.com/series-7-episode-21-the-anything-can-happen-recurrence/">Series 7 Episode 21 &#8211; The Anything Can Happen&nbsp;Recurrence</a></li>
+<li class="page_item page-item-650"><a href="http://bigbangtrans.wordpress.com/series-7-episode-22-the-proton-transmogrification/">Series 7 Episode 22 &#8211; The Proton Transmogrification</a></li>
+<li class="page_item page-item-654"><a href="http://bigbangtrans.wordpress.com/series-7-episode-23-the-gorilla-dissolution/">Series 7 Episode 23 &#8211; The Gorilla&nbsp;Dissolution</a></li>
+<li class="page_item page-item-656"><a href="http://bigbangtrans.wordpress.com/series-7-episode-24-the-status-quo-combustion/">Series 7 Episode 24 &#8211; The Status Quo&nbsp;Combustion</a></li>
+		</ul>
+		</div>
+	</div>
+
+</div>
+
+<div class="hr last">&nbsp;</div>
+<div id="footer">
+	<p><a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com</a>. <a href="https://wordpress.com/themes/chaoticsoul/" title="Learn more about this theme">The ChaoticSoul Theme</a>.</p>
+</div>
+</div>
+
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201437x'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781g'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+
+					<h3><label for="loggedout-follow-field">Follow &ldquo;Big Bang Theory Transcripts&rdquo;</label></h3>
+
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+						<p class="bit-follow-count">Join 519 other followers</p>
+			<p><input type="email" name="email" value="Enter your email address" onfocus='this.value=(this.value=="Enter your email address") ? "" : this.value;' onblur='this.value=(this.value=="") ? "Enter email address" : this.value;'  id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="7134765"/>
+			<input type="hidden" name="source" value="http://bigbangtrans.wordpress.com/series-1-episode-4-the-luminous-fish-effect/"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="5825259a89" /><input type="hidden" name="_wp_http_referer" value="/series-1-episode-4-the-luminous-fish-effect/" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="https://wordpress.com/?ref=lof">Powered by WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+		<iframe src='http://widgets.wp.com/likes/master.html?ver=20140922#ver=20140922&amp;mp6=1' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+		<div id='likes-other-gravatars'><div class="likes-text"><span>%d</span> bloggers like this:</div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+		<script type="text/javascript">
+		//<![CDATA[
+			var jetpackLikesWidgetQueue = [];
+			var jetpackLikesWidgetBatch = [];
+			var jetpackLikesMasterReady = false;
+
+			function JetpackLikespostMessage( message, target ) {
+				if ( "string" === typeof message ){
+					try{
+						message = JSON.parse( message );
+					}
+					catch(e) {
+						return;
+					}
+				}
+
+				pm( {
+					target: target,
+					type: 'likesMessage',
+					data: message,
+					origin: '*'
+				} );
+			}
+
+			function JetpackLikesBatchHandler() {
+				var requests = [];
+				jQuery( 'div.jetpack-likes-widget-unloaded' ).each( function( i ) {
+					if ( jetpackLikesWidgetBatch.indexOf( this.id ) > -1 )
+						return;
+					jetpackLikesWidgetBatch.push( this.id );
+					var regex = /like-(post|comment)-wrapper-(\d+)-(\d+)-(\w+)/;
+					var match = regex.exec( this.id );
+					if ( ! match || match.length != 5 )
+						return;
+
+					var info = {
+						blog_id: match[2],
+						width:   this.width
+					};
+
+					if ( 'post' == match[1] ) {
+						info.post_id = match[3];
+					} else if ( 'comment' == match[1] ) {
+						info.comment_id = match[3];
+					}
+
+					info.obj_id = match[4];
+
+					requests.push( info );
+				});
+
+				if ( requests.length > 0 ) {
+					JetpackLikespostMessage( { event: 'initialBatch', requests: requests }, window.frames['likes-master'] );
+				}
+			}
+
+			function JetpackLikesMessageListener( event ) {
+				if ( "undefined" == typeof event.event )
+					return;
+
+				if ( 'masterReady' == event.event ) {
+					jQuery( document ).ready( function() {
+						jetpackLikesMasterReady = true;
+
+						var stylesData = {
+								event: 'injectStyles'
+						};
+
+						if ( jQuery( 'iframe.admin-bar-likes-widget' ).length > 0 ) {
+							JetpackLikespostMessage( { event: 'adminBarEnabled' }, window.frames[ 'likes-master' ] );
+
+							stylesData.adminBarStyles = {
+								background: jQuery( '#wpadminbar .quicklinks li#wp-admin-bar-wpl-like > a' ).css( 'background' ),
+								isRtl: ( 'rtl' == jQuery( '#wpadminbar' ).css( 'direction' ) )
+							};
+						}
+
+						if ( !window.addEventListener )
+							jQuery( '#wp-admin-bar-admin-bar-likes-widget' ).hide();
+
+						stylesData.textStyles = {
+							color: jQuery( '.sd-text-color').css( 'color' ),
+							fontFamily: jQuery( '.sd-text-color' ).css( 'font-family' ),
+							fontSize: jQuery( '.sd-text-color' ).css( 'font-size' ),
+							direction: jQuery( '.sd-text-color' ).css( 'direction' ),
+							fontWeight: jQuery( '.sd-text-color' ).css( 'font-weight' ),
+							fontStyle: jQuery( '.sd-text-color' ).css( 'font-style' ),
+							textDecoration: jQuery( '.sd-text-color' ).css('text-decoration')
+						};
+
+						stylesData.linkStyles = {
+							color: jQuery( '.sd-link-color' ).css('color'),
+							fontFamily: jQuery( '.sd-link-color' ).css('font-family'),
+							fontSize: jQuery( '.sd-link-color' ).css('font-size'),
+							textDecoration: jQuery( '.sd-link-color' ).css('text-decoration'),
+							fontWeight: jQuery( '.sd-link-color' ).css( 'font-weight' ),
+							fontStyle: jQuery( '.sd-link-color' ).css( 'font-style' )
+						};
+
+						JetpackLikespostMessage( stylesData, window.frames[ 'likes-master' ] );
+
+						JetpackLikesBatchHandler();
+
+						jQuery( document ).on( 'inview', 'div.jetpack-likes-widget-unloaded', function() {
+							jetpackLikesWidgetQueue.push( this.id );
+						});
+					});
+				}
+
+				if ( 'showLikeWidget' == event.event ) {
+					jQuery( '#' + event.id + ' .post-likes-widget-placeholder'  ).fadeOut( 'fast', function() {
+						jQuery( '#' + event.id + ' .post-likes-widget' ).fadeIn( 'fast', function() {
+							JetpackLikespostMessage( { event: 'likeWidgetDisplayed', blog_id: event.blog_id, post_id: event.post_id, obj_id: event.obj_id }, window.frames['likes-master'] );
+						});
+					});
+				}
+
+				if ( 'clickReblogFlair' == event.event ) {
+					wpcom_reblog.toggle_reblog_box_flair( event.obj_id );
+				}
+
+				if ( 'showOtherGravatars' == event.event ) {
+					var $container = jQuery( '#likes-other-gravatars' );
+					var $list = $container.find( 'ul' );
+
+					$container.hide();
+					$list.html( '' );
+
+					$container.find( '.likes-text span' ).text( event.total );
+
+					jQuery.each( event.likers, function( i, liker ) {
+						$list.append( '<li class="' + liker.css_class + '"><a href="' + liker.profile_URL + '" class="wpl-liker" rel="nofollow" target="_parent"><img src="' + liker.avatar_URL + '" alt="' + liker.name + '" width="30" height="30" style="padding-right: 3px;" /></a></li>');
+					} );
+
+					var offset = jQuery( "[name='" + event.parent + "']" ).offset();
+
+					$container.css( 'left', offset.left + event.position.left - 10 + 'px' );
+					$container.css( 'top', offset.top + event.position.top - 33 + 'px' );
+
+					var rowLength = Math.floor( event.width / 37 );
+					var height = ( Math.ceil( event.likers.length / rowLength ) * 37 ) + 13;
+					if ( height > 204 ) {
+						height = 204;
+					}
+
+					$container.css( 'height', height + 'px' );
+					$container.css( 'width', rowLength * 37 - 7 + 'px' );
+
+					$list.css( 'width', rowLength * 37 + 'px' );
+
+					$container.fadeIn( 'slow' );
+
+					var scrollbarWidth = $list[0].offsetWidth - $list[0].clientWidth;
+					if ( scrollbarWidth > 0 ) {
+						$container.width( $container.width() + scrollbarWidth );
+						$list.width( $list.width() + scrollbarWidth );
+					}
+				}
+			}
+
+			pm.bind( 'likesMessage', function(e) { JetpackLikesMessageListener(e); } );
+
+			jQuery( document ).click( function( e ) {
+				var $container = jQuery( '#likes-other-gravatars' );
+
+				if ( $container.has( e.target ).length === 0 ) {
+					$container.fadeOut( 'slow' );
+				}
+			});
+
+			function JetpackLikesWidgetQueueHandler() {
+				var wrapperID;
+				if ( ! jetpackLikesMasterReady ) {
+					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+					return;
+				}
+
+				if ( jetpackLikesWidgetQueue.length > 0 ) {
+					// We may have a widget that needs creating now
+					var found = false;
+					while( jetpackLikesWidgetQueue.length > 0 ) {
+						// Grab the first member of the queue that isn't already loading.
+						wrapperID = jetpackLikesWidgetQueue.splice( 0, 1 )[0];
+						if ( jQuery( '#' + wrapperID ).hasClass( 'jetpack-likes-widget-unloaded' ) ) {
+							found = true;
+							break;
+						}
+					}
+					if ( ! found ) {
+						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+						return;
+					}
+				} else if ( jQuery( 'div.jetpack-likes-widget-unloaded' ).length > 0 ) {
+					// Grab any unloaded widgets for a batch request
+					JetpackLikesBatchHandler();
+
+					// Get the next unloaded widget
+					wrapperID = jQuery( 'div.jetpack-likes-widget-unloaded' ).first()[0].id;
+					if ( ! wrapperID ) {
+						// Everything is currently loaded
+						setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+						return;
+					}
+				}
+
+				if ( 'undefined' === typeof wrapperID ) {
+					setTimeout( JetpackLikesWidgetQueueHandler, 500 );
+					return;
+				}
+
+				var $wrapper = jQuery( '#' + wrapperID );
+				$wrapper.find( 'iframe' ).remove();
+
+				if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
+					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='22px' width='68px' frameBorder='0' scrolling='no' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
+				} else {
+					$wrapper.find( '.post-likes-widget-placeholder' ).after( "<iframe class='post-likes-widget jetpack-likes-widget' name='" + $wrapper.data( 'name' ) + "' height='55px' width='100%' frameBorder='0' src='" + $wrapper.data( 'src' ) + "'></iframe>" );
+				}
+
+				$wrapper.removeClass( 'jetpack-likes-widget-unloaded' ).addClass( 'jetpack-likes-widget-loading' );
+
+				$wrapper.find( 'iframe' ).load( function( e ) {
+					var $iframe = jQuery( e.target );
+					$wrapper.removeClass( 'jetpack-likes-widget-loading' ).addClass( 'jetpack-likes-widget-loaded' );
+
+					JetpackLikespostMessage( { event: 'loadLikeWidget', name: $iframe.attr( 'name' ), width: $iframe.width() }, window.frames[ 'likes-master' ] );
+
+					if ( $wrapper.hasClass( 'slim-likes-widget' ) ) {
+						$wrapper.find( 'iframe' ).Jetpack( 'resizeable' );
+					}
+				});
+				setTimeout( JetpackLikesWidgetQueueHandler, 250 );
+			}
+			JetpackLikesWidgetQueueHandler();
+		//]]>
+		</script>
+<script type='text/javascript' src='http://s2.wp.com/wp-content/js/devicepx.js?m=1399919068g'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script type="text/javascript">
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "bigbangtrans.wordpress.com";
+	</script>
+	<script type="text/javascript" src="http://s.skimresources.com/js/725X1342.skimlinks.js"></script><script src="//stats.wp.com/w.js?23" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({'blog':'7134765','v':'wpcom','tz':'1','user_id':'0','post':'9','subd':'bigbangtrans'});
+ex_go({'crypt':'UE40eW5QN0p8M2Y/RE1LVmwrVi5vQS5fVFtfdHBbPyw1VXIrU3hWLHhzVndTdktBX0ddJnpXRjVaOTd6fj1YMX4ydzR6MmRCYnxkNmdpVT12JVV3SnNyVDdZZ0smdExGN3VjUE8mdi4weCsxcGpHfHlnMXBdSDFXLD9zbjlYeUFRcmZPTDhvdDlXTkQsd2Q/XWpZfDZXUCx6VEJ5P0xdfEkteTEtP0xocWxpLC0lUWhHfm80UCtBcGNKXzVrd1gvV2dpaFBsQ1NuTn4vU3lpb10xUG1Ga2F+OEhDVVRaS1suZ0dhczIzN3RUS3ZLSW9mfjMlLXNONHwtMX5MUlBRNy5Cc01MfkdyNVc='});
+addLoadEvent(function(){linktracker_init('7134765',9);});
+	</script>
+<noscript><img src="http://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>

@@ -1,7 +1,8 @@
-from nltk.corpus import wordnet
-import urllib2, json, time, re, itertools
+import re
+import urllib2
 from bs4 import BeautifulSoup
-from StopWords import *
+from PreProcessing.StopWords import *
+from nltk.corpus import wordnet
 
 def fetchPage(url):
     u = urllib2.urlopen(url)
