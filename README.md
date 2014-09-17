@@ -3,6 +3,8 @@
 The objective of this project is to find out patterns and explore the characters of the famous sitcom The Big Bang Theory.
 
 Below are some of the analysis that this project tries to uncover.
+>> TODO
+
 + By Character
     - Word count
     - Unique word count

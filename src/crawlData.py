@@ -28,7 +28,6 @@ def crawlData():
         outfile.write(htmlPage)
         outfile.close()
 
-
 '''
 def extractCharacters():
     #Extract characters from each episode
@@ -50,11 +49,8 @@ def extractOtherCharacterMentions(character):
 
 '''
 def generateEpisodeData():
-
 def generateSeasonData():
-
 def generateCompleteData():
-
 '''
 
 '''
@@ -70,5 +66,6 @@ def extractCharacterRelationships():
 def extractWordTypes():
     #Extract technical, slang
 '''
+
 crawlData()
 
